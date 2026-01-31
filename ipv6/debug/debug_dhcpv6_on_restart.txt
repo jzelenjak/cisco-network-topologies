@@ -1,0 +1,127 @@
+*Jan 31 14:32:22.742: IPv6 DHCP: Received RELEASE from FE80::5054:FF:FEAF:FB98 on GigabitEthernet0/0
+*Jan 31 14:32:22.742: IPv6 DHCP: detailed packet contents
+*Jan 31 14:32:22.742:   src FE80::5054:FF:FEAF:FB98 (GigabitEthernet0/0)
+*Jan 31 14:32:22.742:   dst FF02::1:2
+*Jan 31 14:32:22.742:   type RELEASE(8), xid 16546010
+*Jan 31 14:32:22.742:   option CLIENTID(1), len 14
+*Jan 31 14:32:22.742:     000100013110CE49525400AFFB98
+*Jan 31 14:32:22.742:   option SERVERID(2), len 10
+*Jan 31 14:32:22.742:     0003000152540029DC87
+*Jan 31 14:32:22.742:   option IA-NA(3), len 40
+*Jan 31 14:32:22.742:     IAID 0x00AFFB98, T1 0, T2 0
+*Jan 31 14:32:22.742:     option IAADDR(5), len 24
+*Jan 31 14:32:22.743:       IPv6 address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB
+*Jan 31 14:32:22.743:       preferred 0, valid 0
+*Jan 31 14:32:22.744:   option ELAPSED-TIME(8), len 2
+*Jan 31 14:32:22.745:     elapsed-time 0
+*Jan 31 14:32:22.747: IPv6 DHCP: Matched prefix 2001:DB8:CAFE:2:: at length = 64
+*Jan 31 14:32:22.747: IPv6 DHCP: Using longest match 2001:DB8:CAFE:2::/64 pool EVE_POOL for incoming interface
+*Jan 31 14:32:22.747: IPv6 DHCP: Found address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB in binding for FE80::5054:FF:FEAF:FB98, IAID 00AFFB98
+*Jan 31 14:32:22.747: IPv6 DHCP: Freeing address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB to internal pool 2001:DB8:CAFE:2:F00D::/80
+*Jan 31 14:32:22.749: IPv6 DHCP: Freeing IA_NA 00AFFB98 from binding for FE80::5054:FF:FEAF:FB98
+*Jan 31 14:32:22.749: IPv6 DHCP: Freeing binding for FE80::5054:FF:FEAF:FB98 from pool EVE_POOL
+*Jan 31 14:32:22.749: IPv6 DHCP: Source Address from SAS FE80::102
+
+*Jan 31 14:32:22.749: IPv6 DHCP: detailed packet contents
+*Jan 31 14:32:22.750:   src FE80::102
+*Jan 31 14:32:22.750:   dst FE80::5054:FF:FEAF:FB98 (GigabitEthernet0/0)
+*Jan 31 14:32:22.751:   type REPLY(7), xid 16546010
+*Jan 31 14:32:22.751:   option SERVERID(2), len 10
+*Jan 31 14:32:22.752:     0003000152540029DC87
+*Jan 31 14:32:22.752:   option 
+DHCPv6_SERVER#CLIENTID(1), len 14
+*Jan 31 14:32:22.753:     000100013110CE49525400AFFB98
+*Jan 31 14:32:22.753:   option STATUS-CODE(13), len 9
+*Jan 31 14:32:22.753:     status code SUCCESS(0)
+*Jan 31 14:32:22.753:     status message: SUCCESS
+*Jan 31 14:32:22.755: IPv6 DHCP: Sending REPLY to FE80::5054:FF:FEAF:FB98 on GigabitEthernet0/0
+*Jan 31 14:32:28.334: IPv6 DHCP: Received SOLICIT from FE80::819F:4FFE:B45D:843 on GigabitEthernet0/0
+*Jan 31 14:32:28.334: IPv6 DHCP: detailed packet contents
+*Jan 31 14:32:28.335:   src FE80::819F:4FFE:B45D:843 (GigabitEthernet0/0)
+*Jan 31 14:32:28.335:   dst FF02::1:2
+*Jan 31 14:32:28.335:   type SOLICIT(1), xid 13929341
+*Jan 31 14:32:28.335:   option CLIENTID(1), len 14
+*Jan 31 14:32:28.335:     000100013110CE49525400AFFB98
+*Jan 31 14:32:28.335:   option IA-NA(3), len 12
+*Jan 31 14:32:28.336:     IAID 0x00AFFB98, T1 0, T2 0
+*Jan 31 14:32:28.336:   option ORO(6), len 10
+*Jan 31 14:32:28.336:     DNS-SERVERS,DOMAIN-LIST,UNKNOWN,UNKNOWN,UNKNOWN
+*Jan 31 14:32:28.337:   option ELAPSED-TIME(8), len 2
+*Jan 31 14:32:28.338:     elapsed-time 0
+*Jan 31 14:32:28.338:   option RAPID-COMMIT(14), len 0
+*Jan 31 14:32:28.339: IPv6 DHCP: Matched prefix 2001:DB8:CAFE:2:: at length = 64
+*Jan 31 14:32:28.339: IPv6 DHCP: Using longest match 2001:DB8:CAFE:2::/64 pool EVE_POOL for incoming interface
+*Jan 31 14:32:28.340: IPv6 DHCP: Creating binding for FE80::819F:4FFE:B45D:843 in pool EVE_POOL
+*Jan 31 14:32:28.340: IPv6 DHCP: Binding for IA_NA 00AFFB98 not found
+*Jan 31 14:32:28.340: IPv6 DHCP: Allocating IA_NA 00AFFB98 in binding for FE80::819F:4FFE:B45D:843
+*Jan 31 14:32:28.340: IPv6 DHCP: Looking up pool 2001:DB8:CAFE:2:F00D::/80 entry with username '000100013110CE49525400AFFB9800AFFB98'
+*Jan 31 14:32:28.340: IPv6 DHCP: Poolentry for user not found
+*Jan 31 14:32:28.341: IPv6 DHCP: Allocated new address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D
+*Jan 31 14:32:28.341: IPv6 DHCP: Allocating address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D in binding for FE80::819F:4FFE:B45D:843, IAID 00AFFB98
+*Jan 31 14:32:28.341: IPv6 DHCP: Updating binding address entry for address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D
+*Jan 31 14:32:28.342: IPv6 DHCP: Setting timer on 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D for 60 seconds
+*Jan 31 14:32:28.342: IPv6 DHCP: Source Address from SAS FE80::102
+
+*Jan 31 14:32:28.342: IPv6 DHCP: detailed packet contents
+*Jan 31 14:32:28.342:   src FE80::102
+*Jan 31 14:32:28.342:   dst FE80::819F:4FFE:B45D:843 (GigabitEthernet0/0)
+*Jan 31 14:32:28.343:   type ADVERTISE(2), xid 13929341
+*Jan 31 14:32:28.343:   option SERVERID(2), len 10
+*Jan 31 14:32:28.343:     0003000152540029DC87
+*Jan 31 14:32:28.343:   option CLIENTID(1), len 14
+*Jan 31 14:32:28.343:     000100013110CE49525400AFFB98
+*Jan 31 14:32:28.343:   option IA-NA(3), len 40
+*Jan 31 14:32:28.344:     IAID 0x00AFFB98, T1 64800, T2 103680
+*Jan 31 14:32:28.344:     option IAADDR(5), len 24
+*Jan 31 14:32:28.344:       IPv6 address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D
+*Jan 31 14:32:28.344:       preferred 129600, valid 259200
+*Jan 31 14:32:28.345:   option DNS-SERVERS(23), len 16
+*Jan 31 14:32:28.345:     2001:DB8:F00D:BAAD::1
+*Jan 31 14:32:28.345:   option DOMAIN-LIST(24), len 11
+*Jan 31 14:32:28.346:     axiom.bnl
+*Jan 31 14:32:28.346: IPv6 DHCP: Sending ADVERTISE to FE80::819F:4FFE:B45D:843 on GigabitEthernet0/0
+*Jan 31 14:32:29.367: IPv6 DHCP: Received REQUEST from FE80::819F:4FFE:B45D:843 on GigabitEthernet0/0
+*Jan 31 14:32:29.367: IPv6 DHCP: detailed packet contents
+*Jan 31 14:32:29.367:   src FE80::819F:4FFE:B45D:843 (GigabitEthernet0/0)
+*Jan 31 14:32:29.368:   dst FF02::1:2
+*Jan 31 14:32:29.368:   type REQUEST(3), xid 11444702
+*Jan 31 14:32:29.368:   option CLIENTID(1), len 14
+*Jan 31 14:32:29.368:     000100013110CE49525400AFFB98
+*Jan 31 14:32:29.368:   option SERVERID(2), len 10
+*Jan 31 14:32:29.368:     0003000152540029DC87
+*Jan 31 14:32:29.369:   option IA-NA(3), len 40
+*Jan 31 14:32:29.369:     IAID 0x00AFFB98, T1 0, T2 0
+*Jan 31 14:32:29.369:     option IAADDR(5), len 24
+*Jan 31 14:32:29.369:       IPv6 address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D
+*Jan 31 14:32:29.369:       preferred 0, valid 0
+*Jan 31 14:32:29.370:   option ORO(6), len 10
+*Jan 31 14:32:29.370:     DNS-SERVERS,DOMAIN-LIST,UNKNOWN,UNKNOWN,UNKNOWN
+*Jan 31 14:32:29.372:   option ELAPSED-TIME(8), len 2
+*Jan 31 14:32:29.372:     elapsed-time 0
+*Jan 31 14:32:29.373: IPv6 DHCP: Matched prefix 2001:DB8:CAFE:2:: at length = 64
+*Jan 31 14:32:29.373: IPv6 DHCP: Using longest match 2001:DB8:CAFE:2::/64 pool EVE_POOL for incoming interface
+*Jan 31 14:32:29.373: IPv6 DHCP: Looking up pool 2001:DB8:CAFE:2:F00D::/80 entry with username '000100013110CE49525400AFFB9800AFFB98'
+*Jan 31 14:32:29.374: IPv6 DHCP: Poolentry for user found
+*Jan 31 14:32:29.374: IPv6 DHCP: Found address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D in binding for FE80::819F:4FFE:B45D:843, IAID 00AFFB98
+*Jan 31 14:32:29.374: IPv6 DHCP: Updating binding address entry for address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D
+*Jan 31 14:32:29.374: IPv6 DHCP: Setting timer on 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D for 259200 seconds
+*Jan 31 14:32:29.374: IPv6 DHCP: Source Address from SAS FE80::102
+
+*Jan 31 14:32:29.375: IPv6 DHCP: detailed packet contents
+*Jan 31 14:32:29.375:   src FE80::102
+*Jan 31 14:32:29.375:   dst FE80::819F:4FFE:B45D:843 (GigabitEthernet0/0)
+*Jan 31 14:32:29.375:   type REPLY(7), xid 11444702
+*Jan 31 14:32:29.375:   option SERVERID(2), len 10
+*Jan 31 14:32:29.376:     0003000152540029DC87
+*Jan 31 14:32:29.376:   option CLIENTID(1), len 14
+*Jan 31 14:32:29.376:     000100013110CE49525400AFFB98
+*Jan 31 14:32:29.376:   option IA-NA(3), len 40
+*Jan 31 14:32:29.376:     IAID 0x00AFFB98, T1 64800, T2 103680
+*Jan 31 14:32:29.376:     option IAADDR(5), len 24
+*Jan 31 14:32:29.377:       IPv6 address 2001:DB8:CAFE:2:F00D:74C0:A4D3:F1D
+*Jan 31 14:32:29.377:       preferred 129600, valid 259200
+*Jan 31 14:32:29.377:   option DNS-SERVERS(23), len 16
+*Jan 31 14:32:29.378:     2001:DB8:F00D:BAAD::1
+*Jan 31 14:32:29.378:   option DOMAIN-LIST(24), len 11
+*Jan 31 14:32:29.378:     axiom.bnl
+*Jan 31 14:32:29.378: IPv6 DHCP: Sending REPLY to FE80::819F:4FFE:B45D:843 on GigabitEthernet0/0

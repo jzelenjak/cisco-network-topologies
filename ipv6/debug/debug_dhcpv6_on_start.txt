@@ -1,0 +1,96 @@
+*Jan 31 14:29:30.439: IPv6 DHCP: Received SOLICIT from FE80::5054:FF:FEAF:FB98 on GigabitEthernet0/0
+*Jan 31 14:29:30.439: IPv6 DHCP: detailed packet contents
+*Jan 31 14:29:30.439:   src FE80::5054:FF:FEAF:FB98 (GigabitEthernet0/0)
+*Jan 31 14:29:30.440:   dst FF02::1:2
+*Jan 31 14:29:30.440:   type SOLICIT(1), xid 4631401
+*Jan 31 14:29:30.440:   option CLIENTID(1), len 14
+*Jan 31 14:29:30.440:     000100013110CE49525400AFFB98
+*Jan 31 14:29:30.441:   option IA-NA(3), len 12
+*Jan 31 14:29:30.441:     IAID 0x00AFFB98, T1 0, T2 0
+*Jan 31 14:29:30.441:   option ORO(6), len 10
+*Jan 31 14:29:30.441:     DNS-SERVERS,DOMAIN-LIST,UNKNOWN,UNKNOWN,UNKNOWN
+*Jan 31 14:29:30.444:   option ELAPSED-TIME(8), len 2
+*Jan 31 14:29:30.444:     elapsed-time 0
+*Jan 31 14:29:30.444:   option RAPID-COMMIT(14), len 0
+*Jan 31 14:29:30.447: IPv6 DHCP: Matched prefix 2001:DB8:CAFE:2:: at length = 64
+*Jan 31 14:29:30.448: IPv6 DHCP: Using longest match 2001:DB8:CAFE:2::/64 pool EVE_POOL for incoming interface
+*Jan 31 14:29:30.448: IPv6 DHCP: Creating binding for FE80::5054:FF:FEAF:FB98 in pool EVE_POOL
+*Jan 31 14:29:30.448: IPv6 DHCP: Binding for IA_NA 00AFFB98 not found
+*Jan 31 14:29:30.449: IPv6 DHCP: Allocating IA_NA 00AFFB98 in binding for FE80::5054:FF:FEAF:FB98
+*Jan 31 14:29:30.449: IPv6 DHCP: Looking up pool 2001:DB8:CAFE:2:F00D::/80 entry with username '000100013110CE49525400AFFB9800AFFB98'
+*Jan 31 14:29:30.449: IPv6 DHCP: Poolentry for user not found
+*Jan 31 14:29:30.450: IPv6 DHCP: Allocated new address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB
+*Jan 31 14:29:30.450: IPv6 DHCP: Allocating address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB in binding for FE80::5054:FF:FEAF:FB98, IAID 00AFFB98
+*Jan 31 14:29:30.450: IPv6 DHCP: Updating binding address entry for address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB
+*Jan 31 14:29:30.451: IPv6 DHCP: Setting timer on 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB for 60 seconds
+*Jan 31 14:29:30.451: IPv6 DHCP: Source Address from SAS FE80::102
+
+*Jan 31 
+DHCPv6_SERVER#14:29:30.451: IPv6 DHCP: detailed packet contents
+*Jan 31 14:29:30.451:   src FE80::102
+*Jan 31 14:29:30.452:   dst FE80::5054:FF:FEAF:FB98 (G
+DHCPv6_SERVER#igabitEthernet0/0)
+*Jan 31 14:29:30.452:   type ADVERTISE(2), xid 4631401
+*Jan 31 14:29:30.452:   option SERVERID(2), len 10
+*Jan 31 14:29:30
+DHCPv6_SERVER#.452:     0003000152540029DC87
+*Jan 31 14:29:30.453:   option CLIENTID(1), len 14
+*Jan 31 14:29:30.453:     000100013110CE49525400AFFB98
+*Jan
+DHCPv6_SERVER# 31 14:29:30.453:   option IA-NA(3), len 40
+*Jan 31 14:29:30.453:     IAID 0x00AFFB98, T1 64800, T2 103680
+*Jan 31 14:29:30.454:     option IA
+DHCPv6_SERVER#ADDR(5), len 24
+*Jan 31 14:29:30.454:       IPv6 address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB
+*Jan 31 14:29:30.454:       preferred 129600, vali
+DHCPv6_SERVER#d 259200
+*Jan 31 14:29:30.455:   option DNS-SERVERS(23), len 16
+*Jan 31 14:29:30.455:     2001:DB8:F00D:BAAD::1
+*Jan 31 14:29:30.455:   option DOMAIN-LIST(24), len 11
+*Jan 31 14:29:30.456:     axiom.bnl
+*Jan 31 14:29:30.456: IPv6 DHCP: Sending ADVERTISE to FE80::5054:FF:FEAF:FB98 on GigabitEthernet0/0
+*Jan 31 14:29:31.493: IPv6 DHCP: Received REQUEST from FE80::5054:FF:FEAF:FB98 on GigabitEthernet0/0
+*Jan 31 14:29:31.493: IPv6 DHCP: detailed packet contents
+*Jan 31 14:29:31.493:   src FE80::5054:FF:FEAF:FB98 (GigabitEthernet0/0)
+*Jan 31 14:29:31.494:   dst FF02::1:2
+*Jan 31 14:29:31.494:   type REQUEST(3), xid 15527321
+*Jan 31 14:29:31.494:   option CLIENTID(1), len 14
+*Jan 31 14:29:31.494:     000100013110CE49525400AFFB98
+*Jan 31 14:29:31.495:   option SERVERID(2), len 10
+*Jan 31 14:29:31.495:     0003000152540029DC87
+*Jan 31 14:29:31.495:   option IA-NA(3), len 40
+*Jan 31 14:29:31.495:     IAID 0x00AFFB98, T1 0, T2 0
+*Jan 31 14:29:31.496:     option IAADDR(5), len 24
+*Jan 31 14:29:31.496:       IPv6 address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB
+*Jan 31 14:29:31.496:       preferred 0, valid 0
+*Jan 31 14:29:31.497:   option ORO(6), len 10
+*Jan 31 14:29:31.497:     DNS-SERVERS,DOMAIN-LIST,UNKNOWN,UNKNOWN,UNKNOWN
+*Jan 31 14:29:31.499:   option ELAPSED-TIME(8), len 2
+*Jan 31 14:29:31.500:     elapsed-time 0
+*Jan 31 14:29:31.501: IPv6 DHCP: Matched prefix 2001:DB8:CAFE:2:: at length = 64
+*Jan 31 14:29:31.502: IPv6 DHCP: Using longest match 2001:DB8:CAFE:2::/64 pool EVE_POOL for incoming interface
+*Jan 31 14:29:31.502: IPv6 DHCP: Looking up pool 2001:DB8:CAFE:2:F00D::/80 entry with username '000100013110CE49525400AFFB9800AFFB98'
+*Jan 31 14:29:31.502: IPv6 DHCP: Poolentry for user found
+*Jan 31 14:29:31.503: IPv6 DHCP: Found address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB in binding for FE80::5054:FF:FEAF:FB98, IAID 00AFFB98
+*Jan 31 14:29:31.503: IPv6 DHCP: Updating binding address entry for address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB
+*Jan 31 14:29:31.503: IPv6 DHCP: Setting timer on 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB for 259200 seconds
+*Jan 31 14:29:31.503: IPv6 DHCP: Source Address from SAS FE80::102
+
+*Jan 31 14:29:31.504: IPv6 DHCP: detailed packet contents
+*Jan 31 14:29:31.504:   src FE80::102
+*Jan 31 14:29:31.504:   dst FE80::5054:FF:FEAF:FB98 (GigabitEthernet0/0)
+*Jan 31 14:29:31.504:   type REPLY(7), xid 15527321
+*Jan 31 14:29:31.505:   option SERVERID(2), len 10
+*Jan 31 14:29:31.505:     0003000152540029DC87
+*Jan 31 14:29:31.505:   option CLIENTID(1), len 14
+*Jan 31 14:29:31.505:     000100013110CE49525400AFFB98
+*Jan 31 14:29:31.506:   option IA-NA(3), len 40
+*Jan 31 14:29:31.506:     IAID 0x00AFFB98, T1 64800, T2 103680
+*Jan 31 14:29:31.506:     option IAADDR(5), len 24
+*Jan 31 14:29:31.506:       IPv6 address 2001:DB8:CAFE:2:F00D:BF2:9CCD:46AB
+*Jan 31 14:29:31.506:       preferred 129600, valid 259200
+*Jan 31 14:29:31.507:   option DNS-SERVERS(23), len 16
+*Jan 31 14:29:31.508:     2001:DB8:F00D:BAAD::1
+*Jan 31 14:29:31.508:   option DOMAIN-LIST(24), len 11
+*Jan 31 14:29:31.508:     axiom.bnl
+*Jan 31 14:29:31.508: IPv6 DHCP: Sending REPLY to FE80::5054:FF:FEAF:FB98 on GigabitEthernet0/0
