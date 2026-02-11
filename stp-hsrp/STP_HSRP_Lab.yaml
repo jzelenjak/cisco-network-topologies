@@ -1,0 +1,1791 @@
+annotations:
+  - border_color: '#FF000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+        192.168.10.10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: 560.0
+    z_index: 1
+  - border_color: '#FF000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+        192.168.11.11
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -120.0
+    y1: 560.0
+    z_index: 1
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#FA8787'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -560.0
+    y1: 360.0
+    x2: 360.0
+    y2: 240.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#6FD4F7'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -160.0
+    y1: 360.0
+    x2: 360.0
+    y2: 240.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      Interface VLAN  2: 192.168. 2.101/24
+      Interface VLAN 10: 192.168.10.101/24
+      Interface VLAN 11: 192.168.11.101/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -760.0
+    y1: 0.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      Interface VLAN  2: 192.168. 2.102/24
+      Interface VLAN 10: 192.168.10.102/24
+      Interface VLAN 11: 192.168.11.102/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 40.0
+    y1: 0.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 1
+    text_bold: false
+    text_content: |2-
+
+      Trunk
+      Allowed VLANs: 2,10,11,99
+      Native VLAN: 99
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -599.2624351287311
+    y1: 202.09524361143616
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      Trunk
+      Allowed VLANs: 2,10,11,99
+      Native VLAN: 99
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 40.0
+    y1: 200.0
+    z_index: 1
+  - border_color: '#FF000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      VLAN 10
+      192.168.10.0/24
+
+      Default Gateway:
+      192.168.10.1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -520.0
+    y1: 400.0
+    z_index: 1
+  - border_color: '#FF000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      VLAN 11
+      192.168.11.0/24
+
+      Default Gateway:
+      192.168.11.1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 0.0
+    y1: 400.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: 40.0
+    y1: 240.0
+    x2: -120.0
+    y2: 200.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: 40.0
+    y1: 240.0
+    x2: -40.0
+    y2: 200.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -400.0
+    y1: 240.0
+    x2: -240.0
+    y2: 200.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -400.0
+    y1: 240.0
+    x2: -320.0
+    y2: 200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: ' L3'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: 80.0
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: ' L3'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -80.0
+    y1: 80.0
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#555555'
+    rotation: 0
+    text_bold: false
+    text_content: '  L2'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: 320.0
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#555555'
+    rotation: 0
+    text_bold: false
+    text_content: L2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -80.0
+    y1: 320.0
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+        VLAN 2 (Management)
+        192.168.2.201/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -560.0
+    y1: 320.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      VLAN 2 (Management)
+      192.168.2.202/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 0.0
+    y1: 320.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Trunk
+      Allowed VLANs: 2,10,11,99
+      Native VLAN: 99
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -360.0
+    y1: -80.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -240.0
+    y1: 0.0
+    x2: -160.0
+    y2: 80.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -240.0
+    y1: 0.0
+    x2: -200.0
+    y2: 120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Root for
+      VLANs 2,10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -360.0
+    y1: 0.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      Root for
+      VLANs 11,99
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -80.0
+    y1: 0.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 2
+    type: ellipse
+    x1: -227.5
+    y1: 120.0
+    x2: 12.5
+    y2: 40.0
+    z_index: 4
+  - border_color: '#676767'
+    border_style: ''
+    color: '#FFFFFFFF'
+    rotation: 0
+    thickness: 2
+    type: ellipse
+    x1: -132.5
+    y1: 120.0
+    x2: 12.5
+    y2: 40.0
+    z_index: 4
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+        Root Guard
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -520.0
+    y1: 160.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      Root Guard
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 40.0
+    y1: 160.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      HSRP group 10, VIP: 192.168.10.1 (active)
+      HSRP group 11, VIP: 192.168.11.1 (standby)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -800.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      HSRP group 10, VIP: 192.168.10.1 (standby)
+      HSRP group 11, VIP: 192.168.11.1 (active)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 40.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#FDFF7C'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -560.0
+    y1: 320.0
+    x2: 360.0
+    y2: 40.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#FDFF7C'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -160.0
+    y1: 320.0
+    x2: 360.0
+    y2: 40.0
+    z_index: 0
+  - border_color: '#676767'
+    border_style: ''
+    color: '#BABABA'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -400.0
+    y1: 200.0
+    x2: -280.0
+    y2: 160.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#BABABA'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -400.0
+    y1: 200.0
+    x2: -320.0
+    y2: 160.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#BABABA'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: 40.0
+    y1: 200.0
+    x2: -40.0
+    y2: 160.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#BABABA'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: 40.0
+    y1: 200.0
+    x2: -80.0
+    y2: 160.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -120.0
+    y1: 0.0
+    x2: -200.0
+    y2: 80.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -120.0
+    y1: 0.0
+    x2: -120.0
+    y2: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      LACP
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -120.0
+    y1: -40.0
+    z_index: 1
+  - border_color: '#000000'
+    border_style: ''
+    color: '#000000'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -400.0
+    y1: 80.0
+    x2: -360.0
+    y2: 120.0
+    z_index: 1
+  - border_color: '#000000'
+    border_style: ''
+    color: '#000000'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: 40.0
+    y1: 80.0
+    x2: 0.0
+    y2: 120.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -320.0
+    y1: 40.0
+    x2: -320.0
+    y2: 80.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -40.0
+    y1: 40.0
+    x2: -40.0
+    y2: 80.0
+    z_index: 1
+  - border_color: '#5B5B5B'
+    border_style: ''
+    color: '#5B5B5B'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -240.0
+    y1: 400.0
+    x2: -280.0
+    y2: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#5B5B5B'
+    rotation: 0
+    text_bold: false
+    text_content: '  BPDU Guard'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: 400.0
+    z_index: 1
+  - border_color: '#5B5B5B'
+    border_style: ''
+    color: '#5B5B5B'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -120.0
+    y1: 400.0
+    x2: -80.0
+    y2: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#5B5B5B'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      BPDU Filter
+       (Global)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -160.0
+    y1: 400.0
+    z_index: 1
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4913 bytes
+          !
+          ! Last configuration change at 20:48:29 UTC Wed Feb 11 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname D1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          enable secret 8 $8$DMhp75vZMjlPHv$gQuC6ErqcnG9r2Iifprf5onR6Z/tJxKChlMmJv9OgZs
+          !
+          username cisco privilege 15 secret 8 $8$RzWTTETW7Us7c9$pG/UkDkrGWHFBRv/c8NpycI6yYP..xkqOaO/kj31gPk
+          username wall-e secret 8 $8$X3OU5trJJWLpqP$u0PuK2KGrTGTZx3S7Uc5.nMU1.IiELy7Ymk..n71rGY
+          username eve secret 8 $8$ig4tEcUg09.7I9$92cBMjxzLzZAxEJLAnzM2UoF0V.X3m1a8oylQ1zIy5c
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name axiom.bnl
+          ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          spanning-tree pathcost method long
+          spanning-tree vlan 2,10 priority 24576
+          spanning-tree vlan 11 priority 28672
+          spanning-tree vlan 99 priority 20480
+          !
+          !
+          vlan 2
+           name MANAGEMENT_VLAN
+          !
+          vlan 10
+           name WALL-E_VLAN
+          !
+          vlan 11
+           name EVE_VLAN
+          !
+          vlan 99
+           name NATIVE_VLAN
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Port-channel1
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+          !
+          interface GigabitEthernet0/0
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           channel-group 1 mode active
+          !
+          interface GigabitEthernet0/1
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           channel-group 1 mode active
+          !
+          interface GigabitEthernet0/2
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           spanning-tree guard root
+          !
+          interface GigabitEthernet0/3
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           spanning-tree guard root
+          !
+          interface Vlan2
+           ip address 192.168.2.101 255.255.255.0
+          !
+          interface Vlan10
+           ip address 192.168.10.101 255.255.255.0
+           standby version 2
+           standby 10 ip 192.168.10.1
+           standby 10 priority 110
+           standby 10 preempt
+           standby 10 name VLAN10
+          !
+          interface Vlan11
+           ip address 192.168.11.101 255.255.255.0
+           standby version 2
+           standby 11 ip 192.168.11.1
+           standby 11 priority 90
+           standby 11 name VLAN11
+          !
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: D1
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: 120
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:b6:49:7f
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:0f:ac:b4
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:f2:90:a4
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:46:ac:83
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4915 bytes
+          !
+          ! Last configuration change at 20:48:29 UTC Wed Feb 11 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname D2
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          enable secret 8 $8$0uf4HedBQYqHbv$Ax79PTDib2fQ.A9HyqtwSL9CidWNifmEah3AXllpX1g
+          !
+          username cisco privilege 15 secret 8 $8$ChaEFOvdWFXt69$I5L1oTFSJdG551PoCS3KY5trv1c8BG5BOwfAcTS1ho.
+          username wall-e secret 8 $8$uCs0B6wsgxvRnv$2f4v68/5w9KCoHzrO1YECeZO3ORNm0rsL4YGofW5aAI
+          username eve secret 8 $8$bsmp3UL41OFzov$1bsp3cbRExKnqXNMyXV4DgugBJOH1VUjeYxtgzeZjrA
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name axiom.bnl
+          ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree extend system-id
+          spanning-tree pathcost method long
+          spanning-tree vlan 2,10 priority 28672
+          spanning-tree vlan 11 priority 24576
+          spanning-tree vlan 99 priority 16384
+          !
+          !
+          vlan 2
+           name MANAGEMENT_VLAN
+          !
+          vlan 10
+           name WALL-E_VLAN
+          !
+          vlan 11
+           name EVE_VLAN
+          !
+          vlan 99
+           name NATIVE_VLAN
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Port-channel2
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+          !
+          interface GigabitEthernet0/0
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           channel-group 2 mode passive
+          !
+          interface GigabitEthernet0/1
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           channel-group 2 mode passive
+          !
+          interface GigabitEthernet0/2
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           spanning-tree guard root
+          !
+          interface GigabitEthernet0/3
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+           spanning-tree guard root
+          !
+          interface Vlan2
+           ip address 192.168.2.102 255.255.255.0
+          !
+          interface Vlan10
+           ip address 192.168.10.102 255.255.255.0
+           standby version 2
+           standby 10 ip 192.168.10.1
+           standby 10 priority 90
+           standby 10 name VLAN10
+          !
+          interface Vlan11
+           ip address 192.168.11.102 255.255.255.0
+           standby version 2
+           standby 11 ip 192.168.11.1
+           standby 11 priority 110
+           standby 11 preempt
+           standby 11 name VLAN11
+          !
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: D2
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -40
+    y: 120
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:fd:2a:3a
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:9a:3c:e7
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:1f:60:44
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:ac:8f:fe
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4090 bytes
+          !
+          ! Last configuration change at 20:48:29 UTC Wed Feb 11 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname A2
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          enable secret 8 $8$ejD7io/ExlT.hP$oKjb2jCM3prOWXPajwtKdAL8uxRgngP5G21n9MVX7tI
+          !
+          username cisco privilege 15 secret 8 $8$smCaL1BEphi2g9$8eX9nVsIB.9D8lxuzj0BGmQ21wGzHTYaoEUz6MrswkU
+          username eve secret 8 $8$qkEcozjO4cv7L9$3g06h169fGArV21nL6RPiPvWlA5Dw5tLYCF6.XEstK2
+          username wall-e secret 8 $8$RUQz6n3PUGoRJ9$ZfU00mWu7UWvMVY/EA0kinyu65IAYTSYYcJT4ZFS2Y2
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name axiom.bnl
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          spanning-tree pathcost method long
+          !
+          !
+          vlan 2
+           name MANAGEMENT_VLAN
+          !
+          vlan 11
+           name EVE_VLAN
+          !
+          vlan 99
+           name NATIVE_VLAN
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport access vlan 11
+           switchport mode access
+           switchport port-security
+           negotiation auto
+           spanning-tree portfast edge
+          !
+          interface GigabitEthernet0/1
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+          !
+          interface Vlan2
+           ip address 192.168.2.202 255.255.255.0
+          !
+          ip default-gateway 192.168.2.102
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: A2
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -40
+    y: 320
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:99:0d:21
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:48:fd:21
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:b7:3f:8b
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:31:9f:0b
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4085 bytes
+          !
+          ! Last configuration change at 20:48:29 UTC Wed Feb 11 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname A1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          enable secret 8 $8$LWA24RNMHmamkf$SbT0VbuxH77xAZ3pTjOoj0lBgUCc0ld6W83DzdY71Qw
+          !
+          username cisco privilege 15 secret 8 $8$coQfTrEaBaYW.P$ZE226.Lk/aLu1yBIBiTc4HwfgvTederF7KvylhTkIDM
+          username wall-e secret 8 $8$S3Ts.WdjZPzCtP$kYdMbeWUtaZkZhhzyGzrZ9nUHWXOqoaWEgU/tH7e462
+          username eve secret 8 $8$9.kl0jjI4jWb3f$n9vsIT4ycIdD7PoT2vSQYlh4fTzgHMWFM0lksFansec
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name axiom.bnl
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode rapid-pvst
+          spanning-tree portfast edge default
+          spanning-tree extend system-id
+          spanning-tree pathcost method long
+          !
+          !
+          vlan 2
+           name MANAGEMENT_VLAN
+          !
+          vlan 10
+           name WALL-E_VLAN
+          !
+          vlan 99
+           name NATIVE_VLAN
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport access vlan 10
+           switchport mode access
+           switchport port-security
+           negotiation auto
+           spanning-tree bpduguard enable
+          !
+          interface GigabitEthernet0/1
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport trunk allowed vlan 2,10,11,99
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           negotiation auto
+          !
+          interface Vlan2
+           ip address 192.168.2.201 255.255.255.0
+          !
+          ip default-gateway 192.168.2.101
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: A1
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: 320
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:61:b6:cf
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:c2:45:2a
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:af:9c:8a
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:2f:3a:14
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname WALL-E
+          # configurable user account
+          USERNAME=wall-e
+          PASSWORD=eve
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.10.10
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=192.168.10.1
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: WALL-E
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: 520
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:70:f4:81
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname EVE
+          # configurable user account
+          USERNAME=eve
+          PASSWORD=wall-e
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.11.11
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=192.168.11.1
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: EVE
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -40
+    y: 520
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:81:1f:7e
+        type: physical
+        slot: 0
+links:
+  - id: l0
+    n1: n0
+    n2: n1
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: SW1-GigabitEthernet0/0<->SW2-GigabitEthernet0/0
+  - id: l1
+    n1: n0
+    n2: n1
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: SW1-GigabitEthernet0/1<->SW2-GigabitEthernet0/1
+  - id: l2
+    n1: n4
+    n2: n3
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: alpine-0-eth0<->A1-GigabitEthernet0/0
+  - id: l3
+    n1: n5
+    n2: n2
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: alpine-1-eth0<->A2-GigabitEthernet0/0
+  - id: l4
+    n1: n3
+    n2: n1
+    i1: i4
+    i2: i4
+    conditioning: {}
+    label: A1-GigabitEthernet0/3<->D2-GigabitEthernet0/3
+  - id: l5
+    n1: n2
+    n2: n0
+    i1: i4
+    i2: i4
+    conditioning: {}
+    label: A2-GigabitEthernet0/3<->D1-GigabitEthernet0/3
+  - id: l6
+    n1: n3
+    n2: n0
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: A1-GigabitEthernet0/2<->D1-GigabitEthernet0/2
+  - id: l7
+    n1: n2
+    n2: n1
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: A2-GigabitEthernet0/2<->D2-GigabitEthernet0/2
+lab:
+  description: |-
+    This lab configures the Spanning Tree Protocol (STP) and implements inter-VLAN routing using Switched Virtual Interfaces (SVIs) in a network with four switches (two Layer 2 access switches and two Layer 3 distribution switches).
+
+    The lab topology was inspired from the online course Introduction to Network Simulations with Cisco Modeling Labs by Cisco U. (https://u.cisco.com/paths/introduction-network-simulations-with-cisco-modeling-labs-243).
+
+    Inter-VLAN routing is implemented using Layer 3 distribution switches and VLAN interfaces. The two physical links between the distribution switches are bundled into a Layer 2 EtherChannel. In addition, Hot Standby Router Protocol (HSRP) is configured as a First Hop Redundancy Protocol (FHRP) on the Layer 3 switches.
+
+    For more information about the implemented features, see the configuration of the devices (show running-config or show run).
+
+    Credentials:
+    WALL-E: username: wall-e, password: eve
+    EVE: username: eve, password: wall-e
+    Admin: username: cisco, password: cisco
+    Enable secret: cisco
+  notes: ''
+  title: STP_HSRP_Lab
+  version: 0.3.0
