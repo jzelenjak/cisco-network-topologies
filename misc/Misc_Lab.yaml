@@ -1,0 +1,1930 @@
+annotations:
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.1.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 10
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -680.0
+    y1: 40.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: ' 192.168.2.10/24'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '  192.168.3.0/24'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -40.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -360.0
+    y1: 40.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -280.0
+    y1: 0.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      172.16.1.0/29
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -360.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: -40.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   .2'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -240.0
+    y1: -120.0
+    z_index: 2
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#FA8787'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -800.0
+    y1: 0.0
+    x2: 320.0
+    y2: 400.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#6FD4F7'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -480.0
+    y1: 0.0
+    x2: 320.0
+    y2: 400.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#7CFF9A'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -160.0
+    y1: 0.0
+    x2: 320.0
+    y2: 400.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+       192.168.1.70/26
+          (VLAN 11)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -640.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |-
+      192.168.1.10/26
+         (VLAN 10)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -800.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.1.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -760.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: ' 192.168.3.10/24'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -80.0
+    y1: 360.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.2.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -480.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+        G0/0.10: 192.168.1.1/26   (VLAN 10)
+        G0/0.11: 192.168.1.65/26  (VLAN 11)
+        G0/0.12: 192.168.1.129/26 (VLAN 12)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -800.0
+    y1: -80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+       192.168.1.131
+         (VLAN 12)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -800.0
+    y1: 160.0
+    z_index: 1
+  - border_color: '#000000'
+    border_style: ''
+    color: '#000000'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -440.0
+    y1: -40.0
+    x2: -360.0
+    y2: 0.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      NTP Server
+      10.10.10.10
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -80.0
+    y1: -160.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      NTP Client/Server
+          10.10.9.9
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -200.0
+    y1: -80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   192.168.2.7'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -480.0
+    y1: 160.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   192.168.3.7'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -160.0
+    y1: 160.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -200.0
+    y1: -40.0
+    x2: -280.0
+    y2: 0.0
+    z_index: 1
+  - border_color: '#676767'
+    border_style: ''
+    color: '#676767'
+    line_end: arrow
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -80.0
+    y1: -120.0
+    x2: -120.0
+    y2: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#676767'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      NAT Overload
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: -80.0
+    z_index: 1
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 5091 bytes
+          !
+          ! Last configuration change at 08:13:00 CET Mon Feb 16 2026 by cisco
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          logging buffered warnings
+          no logging console
+          enable secret 8 $8$J1jvbk/BOOXX/9$fe2UkV/BTDZB31G3NwQN8FI4D8VyezeatlsFiS/uWxs
+          !
+          no aaa new-model
+          !
+          !
+          !
+          clock timezone CET 1 0
+          clock summer-time CEST recurring
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain lookup
+          ip domain name axiom.bnl
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          username cisco privilege 15 secret 8 $8$A0wbZjN3mx9bT9$yG/FY1f2CuBGou58bxbftXTlVGJLrZfOEXq/dauFtPw
+          username wall-e secret 8 $8$K4ytFQzCELoEvf$4ThO3WhIbyKVr2ZOV.kuNIOTIZghoVm9HQGw83mSb/g
+          username eve secret 8 $8$HfRFbllC5.P6gP$5pQjDtrvFIp2miswXgei7kiNbop7ZA0ZixAXtnnOlr.
+          username m-o secret 8 $8$II6xeMUBZFfxWv$QGRbf4NmPkKtTY..Cts6dLBRk/ogG9eXY5.6fhZIB0o
+          username wall-a secret 8 $8$zjrbIQYTm0c.Vf$eh/jhG4KUYKU00Zk7YHi5DG5xDgvCweokCp9jjD6Ms.
+          !
+          redundancy
+          !
+          lldp timer 40
+          lldp holdtime 160
+          lldp reinit 4
+          lldp run
+          cdp timer 40
+          cdp holdtime 160
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 10.10.9.9 255.255.255.0
+          !
+          interface GigabitEthernet0/0
+           no ip address
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/0.10
+           description Default Gateway for VLAN 10
+           encapsulation dot1Q 10
+           ip address 192.168.1.1 255.255.255.192
+           ip nat inside
+           no ip virtual-reassembly in
+          !
+          interface GigabitEthernet0/0.11
+           description Default Gateway for VLAN 11
+           encapsulation dot1Q 11
+           ip address 192.168.1.65 255.255.255.192
+           ip nat inside
+           no ip virtual-reassembly in
+          !
+          interface GigabitEthernet0/0.12
+           description Default Gateway for VLAN 12
+           encapsulation dot1Q 12
+           ip address 192.168.1.129 255.255.255.192
+           ip nat inside
+           no ip virtual-reassembly in
+          !
+          interface GigabitEthernet0/1
+           ip address 192.168.2.1 255.255.255.0
+           ip nat inside
+           no ip virtual-reassembly in
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           ip address 192.168.3.1 255.255.255.0
+           ip nat inside
+           no ip virtual-reassembly in
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           ip address 172.16.1.1 255.255.255.248
+           ip nat outside
+           ip virtual-reassembly in
+           duplex auto
+           speed auto
+           media-type rj45
+           no cdp enable
+           no lldp transmit
+           no lldp receive
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          ip nat pool NAT_POOL 172.16.1.3 172.16.1.6 prefix-length 29
+          ip nat inside source list NAT_ACL pool NAT_POOL overload
+          ip route 0.0.0.0 0.0.0.0 GigabitEthernet0/3 172.16.1.2
+          ip route 10.10.10.10 255.255.255.255 GigabitEthernet0/3 172.16.1.2
+          ip ssh version 2
+          !
+          ip access-list standard NAT_ACL
+           permit 192.168.0.0 0.0.3.255
+           remark ACL for NAT translation
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CCC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^CCC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^CCC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 924
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          no scheduler allocate
+          ntp source Loopback0
+          ntp server 10.10.10.10
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: R1
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: 0
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:d3:7c:f0
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:1a:ea:f1
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:31:30:f2
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:36:ca:f3
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3573 bytes
+          !
+          ! Last configuration change at 08:13:02 CET Mon Feb 16 2026
+          ! NVRAM config last updated at 08:08:47 CET Mon Feb 16 2026
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname ISP
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          clock timezone CET 1 0
+          clock summer-time CEST recurring
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          no cdp run
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 10.10.10.10 255.255.255.0
+          !
+          interface GigabitEthernet0/0
+           description External connector
+           ip address dhcp
+           ip nat outside
+           ip virtual-reassembly in
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           ip address 172.16.1.2 255.255.255.248
+           ip nat inside
+           ip virtual-reassembly in
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          ip nat inside source list EXTERNAL_TRAFFIC interface GigabitEthernet0/0 overload
+          !
+          ip access-list standard EXTERNAL_TRAFFIC
+           permit 172.16.1.0 0.0.0.7
+           remark Match packets sent to external connector
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CCC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^CCC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^CCC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          line vty 5 924
+           login
+           transport input none
+          !
+          no scheduler allocate
+          ntp source Loopback0
+          ntp master 2
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: ISP
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -160
+    y: -120
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:e1:b8:b0
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:fc:fb:b1
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:98:dd:b2
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:ea:21:b3
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname WALL-E
+          # configurable user account
+          USERNAME=wall-e
+          PASSWORD=eve
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.1.10/26
+          DEFAULT_GATEWAY=192.168.1.1
+          # External connector
+          DNS_SERVER=192.168.255.1
+          # R1's Loopback 0 interface
+          NTP_SERVER=10.10.9.9
+          TZ=Europe/Amsterdam
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+
+          # NOTE: The part below requires connectivity to the Internet
+
+          # Set the timezone
+          # See https://wiki.alpinelinux.org/wiki/Setting_the_timezone
+          apk add tzdata
+          setup-timezone $TZ
+
+          # Install an NTP client
+          # https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-ntp
+          apk add chrony
+
+          # Configure the NTP client
+          test -d /etc/chrony || mkdir /etc/chrony
+          cat <<EOF > /etc/chrony/chrony.conf
+          server $NTP_SERVER
+          EOF
+
+          # Start the NTP daemon
+          rc-service chronyd status || rc-update add chronyd default
+          rc-service chronyd status || rc-service chronyd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: WALL-E
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -720
+    y: 320
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:50:f3:7e
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname EVE
+          # configurable user account
+          USERNAME=eve
+          PASSWORD=wall-e
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.2.10
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=192.168.2.1
+          # External connector
+          DNS_SERVER=192.168.255.1
+          # R1's Loopback 0 interface
+          NTP_SERVER=10.10.9.9
+          TZ=Europe/Amsterdam
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+
+          # NOTE: The part below requires connectivity to the Internet
+
+          # Set the timezone
+          # See https://wiki.alpinelinux.org/wiki/Setting_the_timezone
+          apk add tzdata
+          setup-timezone $TZ
+
+          # Install an NTP client
+          # https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-ntp
+          apk add chrony
+
+          # Configure the NTP client
+          test -d /etc/chrony || mkdir /etc/chrony
+          cat <<EOF > /etc/chrony/chrony.conf
+          server $NTP_SERVER
+          EOF
+
+          # Start the NTP client
+          rc-service chronyd status || rc-update add chronyd default
+          rc-service chronyd status || rc-service chronyd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: EVE
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: 320
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:57:ea:9e
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname WALL-A
+          # configurable user account
+          USERNAME=wall-a
+          PASSWORD=axiom
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.1.70/26
+          DEFAULT_GATEWAY=192.168.1.65
+          # External connector
+          DNS_SERVER=192.168.255.1
+          # R1's Loopback 0 interface
+          NTP_SERVER=10.10.9.9
+          TZ=Europe/Amsterdam
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+
+          # NOTE: The part below requires connectivity to the Internet
+
+          # Set the timezone
+          # See https://wiki.alpinelinux.org/wiki/Setting_the_timezone
+          apk add tzdata
+          setup-timezone $TZ
+
+          # Install an NTP client
+          # https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-ntp
+          apk add chrony
+
+          # Configure the NTP client
+          test -d /etc/chrony || mkdir /etc/chrony
+          cat <<EOF > /etc/chrony/chrony.conf
+          server $NTP_SERVER
+          EOF
+
+          # Start the NTP daemon
+          rc-service chronyd status || rc-update add chronyd default
+          rc-service chronyd status || rc-service chronyd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: WALL-A
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -560
+    y: 320
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:3b:d9:8e
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4546 bytes
+          !
+          ! Last configuration change at 08:13:01 CET Mon Feb 16 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging buffered
+          no logging console
+          enable secret 8 $8$ghbAKXlNb0F0R9$QdhROi7pBteIhSJhOe4dG/X/KREHC18pqX.qJKTrl/E
+          !
+          username cisco privilege 15 secret 8 $8$DfkJ5WJvlFFi/P$nz8CPEU6Dcrmt.n8E1x.xE4nr.asEsIIX9C.mHR0MIs
+          username wall-e secret 8 $8$1ZdYLR84ei3.gf$R0eTrq92bUtl8dp4AyW2flkKBLAnsZ3f4zbKwhG92.M
+          username wall-a secret 8 $8$vtqjzhqMl/bpfv$VrAjMbS43WiShcBBCtVGJjw83fAtVFbL/EsDqUINneM
+          no aaa new-model
+          clock timezone CET 1 0
+          clock summer-time CEST recurring
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name axiom.bnl
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree portfast edge default
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          !
+          !
+          vlan 10
+           name WALL-E_VLAN
+          !
+          vlan 11
+           name WALL-A_VLAN
+          !
+          vlan 12
+           name MANAGEMENT_VLAN
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          lldp timer 40
+          lldp holdtime 160
+          lldp reinit 4
+          no lldp tlv-select power-management
+          no lldp tlv-select 4-wire-power-management
+          lldp run
+          cdp timer 40
+          cdp holdtime 160
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport trunk allowed vlan 10-12
+           switchport trunk encapsulation dot1q
+           switchport trunk native vlan 99
+           switchport mode trunk
+           switchport nonegotiate
+           switchport port-security
+           negotiation auto
+           spanning-tree portfast edge trunk
+          !
+          interface GigabitEthernet0/1
+           switchport access vlan 10
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.0050.f37e
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 11
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.003b.d98e
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan12
+           description Management IP address
+           ip address 192.168.1.131 255.255.255.192
+          !
+          ip default-gateway 192.168.1.129
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          ntp server 10.10.9.9
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: SW1
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -640
+    y: 160
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:be:25:c0
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:f6:ee:c1
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:0c:a2:c2
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:e2:65:c3
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4151 bytes
+          !
+          ! Last configuration change at 08:13:01 CET Mon Feb 16 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW2
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging buffered
+          no logging console
+          enable secret 8 $8$7399E3P92sJ.8v$LJHq20UEQglU3nNQIh0cVQmUHRm82pvu.HOfVrdSWvQ
+          !
+          username cisco privilege 15 secret 8 $8$DfkJ5WJvlFFi/P$nz8CPEU6Dcrmt.n8E1x.xE4nr.asEsIIX9C.mHR0MIs
+          username eve secret 8 $8$XfmRI1e/xD1mWf$UXniUAjraSE6SYtp5hoBSbca/HM1Y9DDPKromzlGEMI
+          no aaa new-model
+          no process cpu extended history
+          no process cpu autoprofile hog
+          clock timezone CET 1 0
+          clock summer-time CEST recurring
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name axiom.bnl
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree portfast edge default
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          !
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          lldp timer 40
+          lldp holdtime 160
+          lldp reinit 4
+          no lldp tlv-select power-management
+          no lldp tlv-select 4-wire-power-management
+          lldp run
+          cdp timer 40
+          cdp holdtime 160
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport mode access
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.0057.ea9e
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan1
+           description Management IP address
+           ip address 192.168.2.7 255.255.255.0
+          !
+          ip default-gateway 192.168.2.1
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          no service-routing capabilities-manager
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          ntp server 10.10.9.9
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: SW2
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: 160
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:6d:f3:d0
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:af:9e:d1
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:93:6b:d2
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:fd:db:d3
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4151 bytes
+          !
+          ! Last configuration change at 08:13:01 CET Mon Feb 16 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW3
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging buffered
+          no logging console
+          enable secret 8 $8$YVDfK0dmAcWpgf$URXgjFpwO8CYt1uu2cogXRxVOKMfAZ7i2KoD/8AL4R2
+          !
+          username cisco privilege 15 secret 8 $8$DfkJ5WJvlFFi/P$nz8CPEU6Dcrmt.n8E1x.xE4nr.asEsIIX9C.mHR0MIs
+          username m-o secret 8 $8$ajBll3aPneJILv$9LcxE.RI6CZvAy4rGzTBOV6AEdsMLo0M/pkLkzwLTPQ
+          no aaa new-model
+          no process cpu extended history
+          no process cpu autoprofile hog
+          clock timezone CET 1 0
+          clock summer-time CEST recurring
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          no ip domain-lookup
+          ip domain-name axiom.bnl
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree portfast edge default
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          !
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          lldp timer 40
+          lldp holdtime 160
+          lldp reinit 4
+          no lldp tlv-select power-management
+          no lldp tlv-select 4-wire-power-management
+          lldp run
+          cdp timer 40
+          cdp holdtime 160
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport mode access
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.0042.f1ae
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan1
+           description Management IP address
+           ip address 192.168.3.7 255.255.255.0
+          !
+          ip default-gateway 192.168.3.1
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          no service-routing capabilities-manager
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          ntp server 10.10.9.9
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: SW3
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: 0
+    y: 160
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:98:8a:e0
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:8d:77:e1
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:fc:f8:e2
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:bf:4f:e3
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname M-O
+          # configurable user account
+          USERNAME=m-o
+          PASSWORD=all_clean
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.3.10
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=192.168.3.1
+          # External connector
+          DNS_SERVER=192.168.255.1
+          # R1's Loopback 0 interface
+          NTP_SERVER=10.10.9.9
+          TZ=Europe/Amsterdam
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+
+          # NOTE: The part below requires connectivity to the Internet
+
+          # Set the timezone
+          # See https://wiki.alpinelinux.org/wiki/Setting_the_timezone
+          apk add tzdata
+          setup-timezone $TZ
+
+          # Install an NTP client
+          # https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-ntp
+          apk add chrony
+
+          # Configure the NTP client
+          test -d /etc/chrony || mkdir /etc/chrony
+          cat <<EOF > /etc/chrony/chrony.conf
+          server $NTP_SERVER
+          EOF
+
+          # Start the NTP daemon
+          rc-service chronyd status || rc-update add chronyd default
+          rc-service chronyd status || rc-service chronyd start
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n8
+    image_definition: null
+    label: M-O
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: 0
+    y: 320
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:42:f1:ae
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n9
+    image_definition: null
+    label: ext-conn-0
+    node_definition: external_connector
+    parameters: {}
+    ram: null
+    tags: []
+    x: -40
+    y: -200
+    interfaces:
+      - id: i0
+        label: port
+        mac_address: null
+        type: physical
+        slot: 0
+links:
+  - id: l0
+    n1: n1
+    n2: n0
+    i1: i2
+    i2: i4
+    conditioning: {}
+    label: iosv-0-GigabitEthernet0/1<->Router-GigabitEthernet0/3
+  - id: l1
+    n1: n0
+    n2: n5
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: Router1-GigabitEthernet0/0<->SW1-GigabitEthernet0/0
+  - id: l2
+    n1: n0
+    n2: n6
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: Router1-GigabitEthernet0/1<->iosvl2-1-GigabitEthernet0/0
+  - id: l3
+    n1: n3
+    n2: n6
+    i1: i0
+    i2: i2
+    conditioning: {}
+    label: EVE-eth0<->SW2-GigabitEthernet0/1
+  - id: l4
+    n1: n0
+    n2: n7
+    i1: i3
+    i2: i1
+    conditioning: {}
+    label: Router1-GigabitEthernet0/2<->SW3-GigabitEthernet0/0
+  - id: l5
+    n1: n7
+    n2: n8
+    i1: i2
+    i2: i0
+    conditioning: {}
+    label: SW3-GigabitEthernet0/1<->M-O-eth0
+  - id: l6
+    n1: n2
+    n2: n5
+    i1: i0
+    i2: i2
+    conditioning: {}
+    label: WALL-E-eth0<->SW1-GigabitEthernet0/1
+  - id: l7
+    n1: n4
+    n2: n5
+    i1: i0
+    i2: i3
+    conditioning: {}
+    label: WALL-A-eth0<->SW1-GigabitEthernet0/2
+  - id: l8
+    n1: n9
+    n2: n1
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: ext-conn-0-port<->ISP-GigabitEthernet0/0
+lab:
+  description: |-
+    This lab configures miscellaneous features, including CDP, LLDP, basic NTP, NAT overload, and Router-on-a-Stick (ROAS), in a small network with one router and three Layer 2 switches.
+
+    All devices have CDP and LLDP configured on all interfaces, except for R1's G0/3 interface towards the ISP router. R1 also implements dynamic NAT with overload using NAT pool for the traffic flowing towards the ISP. Finally, the ISP router operates in NTP server mode, while R1 and all switches (SW1, SW2, SW3) operate in NTP client/server mode.
+
+    For more information about the implemented features, see the configuration of the devices (show running-config or show run).
+
+    Credentials:
+    WALL-E: username: wall-e, password: eve
+    EVE: username: eve, password: wall-e
+    M-O: username: m-o, password: all_clean
+    WALL-A: username: wall-a, password: axiom
+    Admin: username: cisco, password: cisco
+    Enable secret: cisco
+  notes: ''
+  title: Misc_Lab
+  version: 0.3.0
