@@ -1,0 +1,3083 @@
+annotations:
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#454545'
+    rotation: 0
+    text_bold: true
+    text_content: ' Outside'
+    text_font: monospace
+    text_italic: true
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -640.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#454545'
+    rotation: 0
+    text_bold: true
+    text_content: '  Branch'
+    text_font: monospace
+    text_italic: true
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -680.0
+    y1: -200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#454545'
+    rotation: 0
+    text_bold: true
+    text_content: |2-
+
+      Inside
+    text_font: monospace
+    text_italic: true
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -480.0
+    y1: -200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#454545'
+    rotation: 0
+    text_bold: true
+    text_content: '  DMZ'
+    text_font: monospace
+    text_italic: true
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -560.0
+    y1: -240.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+        192.168.1.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: -240.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+       192.168.2.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -520.0
+    y1: -440.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 172.16.1.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1040.0
+    y1: -520.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -920.0
+    y1: -480.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: ' 10.1.1.0/24'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -760.0
+    y1: -240.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -520.0
+    y1: -160.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+         192.168.2.10
+      (Public: 10.1.5.3)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: -560.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -560.0
+    y1: -200.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+         .1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -640.0
+    y1: -200.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '  172.16.1.101'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1320.0
+    y1: -560.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '  172.16.1.102'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1320.0
+    y1: -320.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '  192.168.3.0/24'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -600.0
+    y1: 80.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: ' .1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -560.0
+    y1: -80.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '  192.168.3.101'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -480.0
+    y1: 200.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+        192.168.1.101
+           (DHCP)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -200.0
+    y1: -240.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#454545'
+    rotation: 0
+    text_bold: true
+    text_content: |2-
+
+      Guest
+    text_font: monospace
+    text_italic: true
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -520.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   .1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -880.0
+    y1: -440.0
+    z_index: 2
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#6FD4F7'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -1120.0
+    y1: -440.0
+    x2: 320.00000000000006
+    y2: 160.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: Branch Office
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1400.0
+    y1: -440.0
+    z_index: 1
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#7CFF9A'
+    rotation: 0
+    thickness: 1
+    type: ellipse
+    x1: -260.0
+    y1: -160.0
+    x2: 300.0
+    y2: 80.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFD17D'
+    rotation: 125
+    thickness: 1
+    type: ellipse
+    x1: -403.34868340606965
+    y1: -347.842343342806
+    x2: 269.21348662139417
+    y2: 123.98805727547224
+    z_index: -2
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FA8787'
+    rotation: 152
+    thickness: 1
+    type: ellipse
+    x1: -767.0359395307012
+    y1: -39.564606995131214
+    x2: 250.19503434908611
+    y2: 93.97606369712486
+    z_index: -1
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FDFF7C'
+    rotation: 62
+    thickness: 1
+    type: ellipse
+    x1: -468.25360085426547
+    y1: 45.87885644240225
+    x2: 222.16027833246562
+    y2: 121.69291468379487
+    z_index: -2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      Security-level: 75
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1200.0
+    y1: -640.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: 'Security-level: 0'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1000.0
+    y1: 120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      Security-level: 100
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -320.0
+    y1: -280.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: '  Security-level: 50'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: -600.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      Security-level: 25
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -480.0
+    y1: 240.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: 10.1.2.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -800.0
+    y1: -400.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+         .2
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -800.0
+    y1: -360.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.2'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -720.0
+    y1: -280.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: Headquarters
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -80.0
+    y1: -160.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+      10.1.5.0/29
+         (DHCP)
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -760.0
+    y1: -160.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+
+         .1
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -760.0
+    y1: -80.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -880.0
+    y1: -440.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '.1'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -880.0
+    y1: -440.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   172.16.1.51'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -1160.0
+    y1: -400.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   192.168.1.51'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -400.0
+    y1: -120.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   .51'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -480.0
+    y1: 0.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#000000'
+    rotation: 0
+    text_bold: false
+    text_content: '   .51'
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -440.0
+    y1: -320.0
+    z_index: 1
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#808080'
+    line_end: arrow
+    line_start: null
+    thickness: 2
+    type: line
+    x1: -600.0
+    y1: -400.0
+    x2: -720.0
+    y2: -360.0
+    z_index: 1
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#FFFFFFFF'
+    line_end: null
+    line_start: null
+    thickness: 1
+    type: line
+    x1: -840.0
+    y1: -320.0
+    x2: -840.0
+    y2: -320.0
+    z_index: 4
+  - border_color: '#808080FF'
+    border_style: ''
+    color: '#808080'
+    line_end: arrow
+    line_start: null
+    thickness: 2
+    type: line
+    x1: -600.0
+    y1: -400.0
+    x2: -640.0
+    y2: -280.0
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#808080FF'
+    rotation: 0
+    text_bold: false
+    text_content: |2-
+        IPsec
+      VPN Tunnel
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -640.0
+    y1: -440.0
+    z_index: 1
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 5055 bytes
+          !
+          ! Last configuration change at 20:32:16 UTC Sun Mar 22 2026 by cisco
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R1-BR
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          enable secret 8 $8$JgGjfFerUwoXXP$aBeUZM0tiN6OZz20BpGNDYQx44k6QUWbtARfehxjl4Q
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain lookup
+          ip domain name axiom.bnl
+          ip host ASA 10.1.1.1
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          username cisco privilege 15 secret 8 $8$atE75V2ivLc0Dv$kJ.GWGaZqTOzLkX9AA.hcJ/EAjnwsOc6fsi6yeLE3rc
+          username wall-e secret 8 $8$56Hf6CGl7tEz2v$8nyG2KMA1Pfyd7pnY5t8dkVud8A0FSsTjHS6f0ONY9E
+          username wall-a secret 8 $8$iyWRnvdgaWT9RP$48iMleG9VIjLJKLi/wYfamkNWCAfGCkXAE/89ZZLZAk
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          crypto ikev2 proposal AEAD_Proposal
+           encryption aes-gcm-256
+           prf sha512
+           group 21 20 16
+          crypto ikev2 proposal Non_AEAD_Proposal
+           encryption aes-cbc-256
+           integrity sha512 sha384
+           group 21 20 16
+          !
+          crypto ikev2 policy AEAD_Policy
+           match address local 10.1.2.1
+           proposal AEAD_Proposal
+          crypto ikev2 policy Non_AEAD_Policy
+           match address local 10.1.2.1
+           proposal Non_AEAD_Proposal
+          !
+          crypto ikev2 keyring IKEv2_Keyring_PSK
+           peer ASA
+            description R1-to-ASA
+            address 10.1.1.1
+            pre-shared-key cisco
+           !
+          !
+          !
+          crypto ikev2 profile IKEv2_Profile
+           description IKEv2 profile for VPN tunnel towards ASA
+           match address local 10.1.2.1
+           match identity remote address 10.1.1.1 255.255.255.255
+           authentication remote pre-share
+           authentication local pre-share
+           keyring local IKEv2_Keyring_PSK
+           lifetime 14400
+          !
+          !
+          !
+          crypto ipsec transform-set AEAD_Transform_Set esp-gcm 256
+           mode tunnel
+          crypto ipsec transform-set Non_AEAD_Transform_Set esp-aes 256 esp-sha512-hmac
+           mode tunnel
+          !
+          !
+          !
+          !
+          !
+          crypto map VPN_Tunnel_Map 10 ipsec-isakmp
+           description Crypto map for VPN tunnel towards ASA
+           set peer 10.1.1.1
+           set security-association lifetime seconds 7200
+           set transform-set AEAD_Transform_Set Non_AEAD_Transform_Set
+           set pfs group21
+           set ikev2-profile IKEv2_Profile
+           match address VPN_Traffic
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           ip address 172.16.1.1 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           ip address 10.1.2.1 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+           crypto map VPN_Tunnel_Map
+          !
+          interface GigabitEthernet0/2
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          ip route 0.0.0.0 0.0.0.0 GigabitEthernet0/1 10.1.2.2
+          ip ssh version 2
+          !
+          ip access-list extended VPN_Traffic
+           permit ip 172.16.1.0 0.0.0.255 any
+           remark Crypto ACL to match VPN traffic
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 924
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: R1-BR
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -880
+    y: -440
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:07:ff:6a
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:ae:1f:6b
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:b4:fb:6c
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:87:ad:6d
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: day0-config
+        content: |-
+          : Saved
+
+          :
+          : Serial Number: 9A3SBG79XQK
+          : Hardware:   ASAv, 2048 MB RAM, CPU Pentium II 2300 MHz
+          :
+          ASA Version 9.23(1)
+          !
+          hostname FW
+          enable password ***** pbkdf2
+          service-module 0 keepalive-timeout 4
+          service-module 0 keepalive-counter 6
+          names
+          no mac-address auto
+
+          !
+          interface GigabitEthernet0/0
+           nameif Inside
+           security-level 100
+           ip address 192.168.1.1 255.255.255.0
+          !
+          interface GigabitEthernet0/1
+           nameif Branch
+           security-level 75
+           ip address 10.1.1.1 255.255.255.0
+          !
+          interface GigabitEthernet0/2
+           nameif DMZ
+           security-level 50
+           ip address 192.168.2.1 255.255.255.0
+          !
+          interface GigabitEthernet0/3
+           nameif Outside
+           security-level 0
+           ip address dhcp setroute
+          !
+          interface GigabitEthernet0/4
+           nameif Guest
+           security-level 25
+           ip address 192.168.3.1 255.255.255.0
+          !
+          interface Management0/0
+           no management-only
+           shutdown
+           no nameif
+           no security-level
+           no ip address
+          !
+          ftp mode passive
+          dns domain-lookup Outside
+          dns server-group DefaultDNS
+           name-server 8.8.8.8
+          same-security-traffic permit inter-interface
+          same-security-traffic permit intra-interface
+          no object-group-search access-control
+          object network Inside_Network
+           subnet 192.168.1.0 255.255.255.0
+          object network DMZ
+           subnet 192.168.2.0 255.255.255.0
+          object network Branch_Network
+           subnet 172.16.1.0 255.255.255.0
+          object network Guest_Network
+           subnet 192.168.3.0 255.255.255.0
+          object network Outside_Network
+           subnet 10.1.5.0 255.255.255.248
+          object network WALL-E
+           host 172.16.1.101
+          object network WALL-A
+           host 172.16.1.102
+          object network M-O
+           host 192.168.3.101
+          object service HTTP
+           service tcp destination eq www
+           description General web traffic (no TLS)
+          object service HTTPS
+           service tcp destination eq https
+           description General web traffic (TLS)
+          object service HTTP_Internal
+           service tcp destination eq www
+           description HTTP service for internal users
+          object service HTTPS_Internal
+           service tcp destination eq https
+           description HTTPS service for internal users
+          object service HTTP_External
+           service tcp destination eq 8080
+           description HTTP service for external users
+          object service HTTPS_External
+           service tcp destination eq 8088
+           description HTTPS service for external users
+          object network Server_HTTP_Private
+           host 192.168.2.10
+          object network Server_HTTPS_Private
+           host 192.168.2.10
+          object network Server_HTTP_Public
+           host 10.1.5.3
+          object network Server_HTTPS_Public
+           host 10.1.5.3
+          object network Branch_Network_NAT
+           host 10.1.5.4
+          object network Guest_Network_NAT
+           host 10.1.5.6
+          object network DMZ_NAT
+           host 10.1.5.5
+          object-group service DNS
+           description DNS traffic (queries)
+           service-object tcp-udp destination eq domain
+          object-group service Troubleshooting
+           description ICMP messages for troubleshooting
+           service-object icmp
+          object-group service General_Services
+           description General services that can be accessed
+           service-object object HTTP
+           service-object object HTTPS
+           service-object udp destination eq 443
+           group-object DNS
+           group-object Troubleshooting
+          object-group network Branch
+           network-object object Branch_Network
+           network-object object WALL-E
+           network-object object WALL-A
+          object-group service Internal_Services
+           service-object object HTTP_Internal
+           service-object object HTTPS_Internal
+          object-group service External_Services
+           service-object object HTTP_External
+           service-object object HTTPS_External
+          access-group Inside_Access in interface Inside
+          access-group Branch_Access in interface Branch
+          access-group DMZ_Access in interface DMZ
+          access-group Outside_Access in interface Outside
+          access-group Guest_Access in interface Guest
+          access-list Inside_Access extended permit icmp object Inside_Network object WALL-E
+          access-list Inside_Access extended deny ip object Inside_Network object Branch_Network
+          access-list Inside_Access extended permit object HTTP_Internal object Inside_Network object Server_HTTP_Private
+          access-list Inside_Access extended permit object HTTPS_Internal object Inside_Network object Server_HTTPS_Private
+          access-list Inside_Access extended permit ip object Inside_Network object DMZ
+          access-list Inside_Access extended permit icmp object Inside_Network object M-O
+          access-list Inside_Access extended deny ip object Inside_Network object Guest_Network
+          access-list Inside_Access extended permit object-group General_Services object Inside_Network any
+          access-list Inside_Access extended deny ip any any log
+          access-list Branch_Access extended permit icmp object WALL-E object Inside_Network
+          access-list Branch_Access extended deny ip object Branch_Network object Inside_Network
+          access-list Branch_Access extended permit object HTTP_Internal object Branch_Network object Server_HTTP_Private
+          access-list Branch_Access extended permit object HTTPS_Internal object Branch_Network object Server_HTTPS_Private
+          access-list Branch_Access extended permit object HTTP_External object Branch_Network object Server_HTTP_Private
+          access-list Branch_Access extended permit object HTTPS_External object Branch_Network object Server_HTTPS_Private
+          access-list Branch_Access extended deny ip object Branch_Network object DMZ
+          access-list Branch_Access extended permit icmp object WALL-E object M-O
+          access-list Branch_Access extended permit icmp object WALL-A object M-O
+          access-list Branch_Access extended deny ip object Branch_Network object Guest_Network
+          access-list Branch_Access extended permit object-group General_Services object Branch_Network any
+          access-list Branch_Access extended deny ip any any
+          access-list DMZ_Access extended deny ip object DMZ object Inside_Network
+          access-list DMZ_Access extended deny ip object DMZ object Branch_Network
+          access-list DMZ_Access extended deny ip object DMZ object Guest_Network
+          access-list DMZ_Access extended permit object-group General_Services object DMZ any
+          access-list DMZ_Access extended deny ip any any log
+          access-list Outside_Access extended permit object HTTP_External any object Server_HTTP_Private
+          access-list Outside_Access extended permit object HTTPS_External any object Server_HTTPS_Private
+          access-list Outside_Access extended deny ip any any log
+          access-list Guest_Access extended deny ip object Guest_Network object Inside_Network
+          access-list Guest_Access extended deny ip object Guest_Network object Branch_Network
+          access-list Guest_Access extended permit object HTTP_External object Guest_Network object Server_HTTP_Private
+          access-list Guest_Access extended permit object HTTPS_External object Guest_Network object Server_HTTPS_Private
+          access-list Guest_Access extended deny ip object Guest_Network object DMZ
+          access-list Guest_Access extended permit object-group General_Services object Guest_Network any
+          access-list Guest_Access extended deny ip any any log
+          access-list VPN_Traffic extended permit ip any4 object Branch_Network
+          pager lines 23
+          mtu Inside 1500
+          mtu Branch 1500
+          mtu DMZ 1500
+          mtu Outside 1500
+          mtu Guest 1500
+          no failover
+          no failover wait-disable
+          no monitor-interface service-module
+          icmp unreachable rate-limit 1 burst-size 1
+          no asdm history enable
+          arp timeout 14400
+          no arp permit-nonconnected
+          arp rate-limit 8192
+          logging enable
+          logging console errors
+          !
+          object network Inside_Network
+           nat (Inside,Outside) dynamic interface
+          object network DMZ
+           nat (DMZ,Outside) dynamic DMZ_NAT
+          object network Branch_Network
+           nat (Branch,Outside) dynamic Branch_Network_NAT
+          object network Guest_Network
+           nat (Guest,Outside) dynamic Guest_Network_NAT
+          object network Server_HTTP_Private
+           nat (DMZ,any) static Server_HTTP_Public service tcp 8080 www
+          object network Server_HTTPS_Private
+           nat (DMZ,any) static Server_HTTPS_Public service tcp 8088 https
+          route Branch 10.1.2.0 255.255.255.0 10.1.1.2 1
+          route Branch 172.16.1.0 255.255.255.0 10.1.1.2 1
+          timeout xlate 3:00:00
+          timeout pat-xlate 0:00:30
+          timeout conn 1:00:00 half-closed 0:10:00 udp 0:02:00 sctp 0:02:00 icmp 0:00:02
+          timeout sunrpc 0:10:00 h323 0:05:00 h225 1:00:00 mgcp 0:05:00 mgcp-pat 0:05:00
+          timeout sip 0:30:00 sip_media 0:02:00 sip-invite 0:03:00 sip-disconnect 0:02:00
+          timeout sip-provisional-media 0:02:00 uauth 0:05:00 absolute
+          timeout tcp-proxy-reassembly 0:01:00
+          timeout floating-conn 0:00:00
+          timeout conn-holddown 0:00:15
+          timeout igp stale-route 0:01:10
+          user-identity default-domain LOCAL
+          aaa authentication ssh console LOCAL
+          aaa authentication enable console LOCAL
+          aaa authentication login-history
+          no snmp-server location
+          no snmp-server contact
+          no sysopt connection permit-vpn
+          crypto ipsec ikev2 ipsec-proposal AEAD_Proposal
+           protocol esp encryption aes-gcm-256
+           protocol esp integrity null
+          crypto ipsec ikev2 ipsec-proposal Non_AEAD_Proposal
+           protocol esp encryption aes-256
+           protocol esp integrity sha-512 sha-384
+          crypto ipsec security-association pmtu-aging infinite
+          crypto map VPN_Tunnel_Map 10 match address VPN_Traffic
+          crypto map VPN_Tunnel_Map 10 set pfs group21
+          crypto map VPN_Tunnel_Map 10 set peer 10.1.2.1
+          crypto map VPN_Tunnel_Map 10 set ikev2 ipsec-proposal AEAD_Proposal Non_AEAD_Proposal
+          crypto map VPN_Tunnel_Map 10 set security-association lifetime seconds 7200
+          crypto map VPN_Tunnel_Map interface Branch
+          crypto ca trustpoint _SmartCallHome_ServerCA
+           no validation-usage
+           crl configure
+          crypto ca trustpoint _SmartCallHome_ServerCA2
+           no validation-usage
+           crl configure
+          crypto ca trustpool policy
+           auto-import
+          crypto ca certificate chain _SmartCallHome_ServerCA
+           certificate ca 0a0142800000014523c844b500000002
+              30820560 30820348 a0030201 0202100a 01428000 00014523 c844b500 00000230
+              0d06092a 864886f7 0d01010b 0500304a 310b3009 06035504 06130255 53311230
+              10060355 040a1309 4964656e 54727573 74312730 25060355 0403131e 4964656e
+              54727573 7420436f 6d6d6572 6369616c 20526f6f 74204341 2031301e 170d3134
+              30313136 31383132 32335a17 0d333430 31313631 38313232 335a304a 310b3009
+              06035504 06130255 53311230 10060355 040a1309 4964656e 54727573 74312730
+              25060355 0403131e 4964656e 54727573 7420436f 6d6d6572 6369616c 20526f6f
+              74204341 20313082 0222300d 06092a86 4886f70d 01010105 00038202 0f003082
+              020a0282 020100a7 5019de3f 993dd433 46f16f51 6182b2a9 4f8f6789 5d84d953
+              dd0c28d9 d7f0ffae 95437299 f9b55d7c 8ac142e1 315074d1 810d7ccd 9b21ab43
+              e2acad5e 866ef309 8a1f5a32 bda2eb94 f9e85c0a ecff98d2 af71b3b4 539f4e87
+              ef92bcbd ec4f3230 884b175e 57c453c2 f602978d d9622bbf 241f628d dfc3b829
+              4b49783c 93608822 fc99da36 c8c2a2d4 2c540067 356e73bf 0258f0a4 dde5b0a2
+              267acae0 36a51916 f5fdb7ef ae3f40f5 6d5a04fd ce34ca24 dc74231b 5d331312
+              5dc40125 f630dd02 5d9fe0d5 47bdb4eb 1ba1bb49 49d89f5b 02f38ae4 2490e462
+              4f4fc1af 8b0e7417 a8d17288 6a7a0149 ccb44679 c617b1da 981e0759 fa752185
+              65dd9056 cefbaba5 609dc49d f952b08b bd87f98f 2b230a23 763bf733 e1c900f3
+              69f94ba2 e04ebc7e 93398407 f744707e fe075ae5 b1acd118 ccf235e5 494908ca
+              56c93dfb 0f187d8b 3bc113c2 4d8fc94f 0e37e91f a10e6adf 622ecb35 0651792c
+              c82538f4 fa4ba789 5c9cd2e3 0d39864a 747cd559 87c23f4e 0c5c52f4 3df75282
+              f1eaa3ac fd49341a 28f34188 3a13eee8 deff991d 5fbacbe8 1ef2b950 60c031d3
+              73e5efbe a0ed330b 74be2020 c4676cf0 08037a55 807f464e 96a7f41e 3ee1f6d8
+              09e13364 2b63d732 5e9ff9c0 7b0f786f 97bc939a f99c1290 787a8087 15d77274
+              9c557478 b1bae16e 7004ba4f a0ba68c3 7bff31f0 733d3d94 2ab10b41 0ea0fe4d
+              88656b79 33b4d702 03010001 a3423040 300e0603 551d0f01 01ff0404 03020106
+              300f0603 551d1301 01ff0405 30030101 ff301d06 03551d0e 04160414 ed4419c0
+              d3f0068b eea47bbe 42e72654 c88e3676 300d0609 2a864886 f70d0101 0b050003
+              82020100 0dae9032 f6a64b7c 44761961 1e2728cd 5e54ef25 bce30890 f929d7ae
+              6808e194 0058ef2e 2e7e5352 8cb65c07 ea88ba99 8b5094d7 8280df61 090093ad
+              0d14e6ce c1f23794 78b05f9c b3a273b8 8f059338 cd8d3eb0 b8fbc0cf b1f2ec2d
+              2d1bccec aa9ab3aa 60821b2d 3bc3843d 578a961e 9c75b8d3 30cd6008 8390d38e
+              54f14d66 c05d7403 40a3ee85 7ec21f77 9c06e8c1 a7185d52 95edc9dd 259e6dfa
+              a9eda33a 34d0597b daed50f3 35bfedeb 144d31c7 60f4daf1 879ce248 e2c6c537
+              fb0610fa 75596631 4729da76 9a1ce982 aeef9ab9 51f78823 9a699562 3ce55580
+              36d75402 fff1b95d ced4236f d845844a 5b65ef89 0cdd14a7 20cb18a5 25b40df9
+              01f0a2d2 f400c874 8ea12a48 8e65db13 c4e22517 7debbe87 5b172054 51934a53
+              030bec5d ca33ed62 fd45c72f 5bdc58a0 8039e6fa d7fe1314 a6ed3d94 4a4274d4
+              c3775973 cd8f46be 5538effa e89132ea 97580422 de38c3cc bc6dc933 3a6a0a69
+              3fa0c8ea 728f8c63 8623bd6d 3c969e95 e0494caa a2b92a1b 9c368178 edc3e846
+              e2265944 751ed975 8951cd10 849d6160 cb5df997 224d8e98 e6e37ff6 5bbbaecd
+              ca4a816b 5e0bf351 e1742be9 7e27a7d9 99494ef8 a580db25 0f1c6362 8ac93367
+              6b3c1083 c6addea8 cd168e8d f0073771 9ff2abfc 41f5c18b ec00375d 09e54e80
+              effab15c 3806a51b 4ae1dc38 2d3cdcab 1f901ad5 4a9ceed1 706cccee f457f818
+              ba846e87
+            quit
+          crypto ca certificate chain _SmartCallHome_ServerCA2
+           certificate ca 0509
+              308205b7 3082039f a0030201 02020205 09300d06 092a8648 86f70d01 01050500
+              3045310b 30090603 55040613 02424d31 19301706 0355040a 13105175 6f566164
+              6973204c 696d6974 6564311b 30190603 55040313 1251756f 56616469 7320526f
+              6f742043 41203230 1e170d30 36313132 34313832 3730305a 170d3331 31313234
+              31383233 33335a30 45310b30 09060355 04061302 424d3119 30170603 55040a13
+              1051756f 56616469 73204c69 6d697465 64311b30 19060355 04031312 51756f56
+              61646973 20526f6f 74204341 20323082 0222300d 06092a86 4886f70d 01010105
+              00038202 0f003082 020a0282 0201009a 18ca4b94 0d002daf 03298af0 0f81c8ae
+              4c19851d 089fab29 4485f32f 81ad321e 9046bfa3 86261a1e fe7e1c18 3a5c9c60
+              172a3a74 8333307d 615411cb edabe0e6 d2a27ef5 6b6f18b7 0a0b2dfd e93eef0a
+              c6b310e9 dcc24617 f85dfda4 daff9e49 5a9ce633 e62496f7 3fba5b2b 1c7a35c2
+              d667feab 66508b6d 28602bef d760c3c7 93bc8d36 91f37ff8 db1113c4 9c7776c1
+              aeb7026a 817aa945 83e205e6 b956c194 378f4871 6322ec17 6507958a 4bdf8fc6
+              5a0ae5b0 e35f5e6b 11ab0cf9 85eb44e9 f80473f2 e9fe5c98 8cf573af 6bb47ecd
+              d45c022b 4c39e1b2 95952d42 87d7d5b3 9043b76c 13f1dedd f6c4f889 3fd175f5
+              92c391d5 8a88d090 ecdc6dde 89c26571 968b0d03 fd9cbf5b 16ac92db eafe797c
+              adebaff7 16cbdbcd 252be51f fb9a9fe2 51cc3a53 0c48e60e bdc9b476 0652e611
+              13857263 0304e004 362b2019 02e874a7 1fb6c956 66f07525 dc67c10e 616088b3
+              3ed1a8fc a3da1db0 d1b12354 df44766d ed41d8c1 b222b653 1cdf351d dca1772a
+              31e42df5 e5e5dbc8 e0ffe580 d70b63a0 ff33a10f ba2c1515 ea97b3d2 a2b5bef2
+              8c961e1a 8f1d6ca4 6137b986 7333d797 969e237d 82a44c81 e2a1d1ba 675f9507
+              a32711ee 16107bbc 454a4cb2 04d2abef d5fd0c51 ce506a08 31f991da 0c8f645c
+              03c33a8b 203f6e8d 673d3ad6 fe7d5b88 c95efbcc 61dc8b33 77d34432 35096204
+              921610d8 9e2747fb 3b21e3f8 eb1d5b02 03010001 a381b030 81ad300f 0603551d
+              130101ff 04053003 0101ff30 0b060355 1d0f0404 03020106 301d0603 551d0e04
+              1604141a 8462bc48 4c332504 d4eed0f6 03c41946 d1946b30 6e060355 1d230467
+              30658014 1a8462bc 484c3325 04d4eed0 f603c419 46d1946b a149a447 3045310b
+              30090603 55040613 02424d31 19301706 0355040a 13105175 6f566164 6973204c
+              696d6974 6564311b 30190603 55040313 1251756f 56616469 7320526f 6f742043
+              41203282 02050930 0d06092a 864886f7 0d010105 05000382 0201003e 0a164d9f
+              065ba8ae 715d2f05 2f67e613 4583c436 f6f3c026 0c0db547 645df8b4 72c946a5
+              03182755 89787d76 ea963480 1720dce7 83f88dfc 07b8da5f 4d2e67b2 84fdd944
+              fc775081 e67cb4c9 0d0b7253 f8760707 4147960c fbe08226 93558cfe 221f6065
+              7c5fe726 b3f73290 9850d437 7155f692 2178f795 79faf82d 26876656 3077a637
+              78335210 58ae3f61 8ef26ab1 ef187e4a 5963ca8d a256d5a7 2fbc561f cf39c1e2
+              fb0aa815 2c7d4d7a 63c66c97 443cd26f c34a170a f890d257 a21951a5 2d9741da
+              074fa950 da908d94 46e13ef0 94fd1000 38f53be8 40e1b46e 561a20cc 6f588ded
+              2e458fd6 e9933fe7 b12cdf3a d6228cdc 84bb226f d0f8e4c6 39e90488 3cc3baeb
+              557a6d80 9924f56c 01fbf897 b0945beb fdd26ff1 77680d35 6423acb8 55a103d1
+              4d4219dc f8755956 a3f9a849 79f8af0e b911a07c b76aed34 d0b62662 381a870c
+              f8e8fd2e d3907f07 912a1dd6 7e5c8583 99b03808 3fe95ef9 3507e4c9 626e577f
+              a75095f7 bac89be6 8ea201c5 d666bf79 61f33c1c e1b9825c 5da0c3e9 d848bd19
+              a2111419 6eb2861b 683e4837 1a88b75d 965e9cc7 ef276208 e291195c d2f121dd
+              ba174282 97718153 31a99ff6 7d62bf72 e1a3931d cc8a265a 0938d0ce d70d8016
+              b478a53a 874c8d8a a5d54697 f22c10b9 bc5422c0 01506943 9ef4b2ef 6df8ecda
+              f1e3b1ef df918f54 2a0b25c1 2619c452 100565d5 8210eac2 31cd2e
+            quit
+          crypto ikev2 policy 10
+           encryption aes-gcm-256
+           integrity null
+           group 21 20 16
+           prf sha512
+           lifetime seconds 14400
+          crypto ikev2 policy 20
+           encryption aes-256
+           integrity sha512 sha384
+           group 21 20 16
+           prf sha512 sha384
+           lifetime seconds 10800
+          crypto ikev2 enable Branch
+          telnet timeout 10
+          ssh stricthostkeycheck
+          ssh timeout 60
+          ssh key-exchange group dh-group14-sha256
+          ssh 192.168.1.0 255.255.255.0 Inside
+          ssh 172.16.1.0 255.255.255.0 Branch
+          console timeout 0
+          console serial
+          dhcpd address 192.168.1.101-192.168.1.254 Inside
+          dhcpd dns 192.168.255.1 8.8.8.8 interface Inside
+          dhcpd lease 28800 interface Inside
+          dhcpd domain axiom.bnl interface Inside
+          dhcpd enable Inside
+          !
+          threat-detection basic-threat
+          threat-detection statistics access-list
+          no threat-detection statistics tcp-intercept
+          dynamic-access-policy-record DfltAccessPolicy
+          username eve password ***** pbkdf2
+          username wall-e password ***** pbkdf2
+          username cisco password ***** pbkdf2 privilege 15
+          tunnel-group 10.1.2.1 type ipsec-l2l
+          tunnel-group 10.1.2.1 ipsec-attributes
+           ikev2 remote-authentication pre-shared-key *****
+           ikev2 local-authentication pre-shared-key *****
+          !
+          class-map inspection_default
+           match default-inspection-traffic
+          !
+          !
+          policy-map type inspect dns preset_dns_map
+           parameters
+            message-length maximum client auto
+            message-length maximum 512
+            no tcp-inspection
+          policy-map global_policy
+           class inspection_default
+            inspect ip-options
+            inspect netbios
+            inspect rtsp
+            inspect sunrpc
+            inspect tftp
+            inspect icmp
+            inspect dns preset_dns_map
+            inspect ftp
+            inspect h323 h225
+            inspect h323 ras
+            inspect rsh
+            inspect esmtp
+            inspect sqlnet
+            inspect sip
+            inspect skinny
+          policy-map type inspect dns migrated_dns_map_2
+           parameters
+            message-length maximum client auto
+            message-length maximum 512
+            no tcp-inspection
+          policy-map type inspect dns migrated_dns_map_1
+           parameters
+            message-length maximum client auto
+            message-length maximum 512
+            no tcp-inspection
+          !
+          service-policy global_policy global
+          prompt hostname context
+          no call-home reporting anonymous
+          call-home
+           profile License
+            destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+            destination transport-method http
+           profile CiscoTAC-1
+            no active
+            destination address http https://tools.cisco.com/its/service/oddce/services/DDCEService
+            destination address email callhome@cisco.com
+            destination transport-method http
+            subscribe-to-alert-group diagnostic
+            subscribe-to-alert-group environment
+            subscribe-to-alert-group inventory periodic monthly
+            subscribe-to-alert-group configuration periodic monthly
+            subscribe-to-alert-group telemetry periodic daily
+          Cryptochecksum:75d79f90cbec511ca9f8289039365413
+          : end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: FW
+    node_definition: asav
+    parameters: {}
+    ram: null
+    tags: []
+    x: -560
+    y: -160
+    interfaces:
+      - id: i0
+        label: Management0/0
+        mac_address: 52:54:00:b6:fb:f0
+        type: physical
+        slot: 0
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:0e:cd:f1
+        type: physical
+        slot: 1
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:bf:47:f2
+        type: physical
+        slot: 2
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:ad:1e:f3
+        type: physical
+        slot: 3
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:b6:34:f4
+        type: physical
+        slot: 4
+      - id: i5
+        label: GigabitEthernet0/4
+        mac_address: 52:54:00:b4:d6:f5
+        type: physical
+        slot: 5
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4419 bytes
+          !
+          ! Last configuration change at 07:52:18 UTC Thu Mar 19 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW1-BR
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging buffered
+          no logging console
+          enable secret 8 $8$m8xwyEdncdE0sf$K5hTBQmUIgmLgRhJ6yI7YsSnTc8QlDdUaFxF4BhltQ.
+          !
+          username cisco privilege 15 secret 8 $8$DsLUSeanKPmjtP$3BlZ/ylCFGTAcVpSENFFBxoemcREDwiu/pev.PTdNU.
+          username wall-e secret 8 $8$dswXteLADR3V79$NCC6P2iQkl5/mp8zKuSfK8LkWPkDmnDAk9DLY1ENQBs
+          username wall-a secret 8 $8$XVD6zqRSSZgxwP$.zYcTXgxjFGL3q7o4qkqzHJ2VbUQ.PNPLEGY8EI/91A
+          no aaa new-model
+          no process cpu extended history
+          no process cpu autoprofile hog
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          ip domain-name axiom.bnl
+          ip name-server 8.8.8.8
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree portfast edge default
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          !
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          no cdp run
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+           no cdp enable
+          !
+          interface GigabitEthernet0/1
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.0007.ff6a
+           switchport port-security
+           negotiation auto
+           no cdp enable
+          !
+          interface GigabitEthernet0/2
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.002f.937e
+           switchport port-security aging time 1440
+           switchport port-security aging type inactivity
+           switchport port-security
+           negotiation auto
+           no cdp enable
+          !
+          interface GigabitEthernet0/3
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.0018.117f
+           switchport port-security aging time 1440
+           switchport port-security aging type inactivity
+           switchport port-security
+           negotiation auto
+           no cdp enable
+          !
+          interface Vlan1
+           ip address 172.16.1.51 255.255.255.0
+          !
+          ip default-gateway 172.16.1.1
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          no service-routing capabilities-manager
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: SW1-BR
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -1080
+    y: -440
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:74:9f:7a
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:0f:d9:7b
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:d9:61:7c
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:32:b2:7d
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3974 bytes
+          !
+          ! Last configuration change at 07:46:38 UTC Thu Mar 19 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW1-IN
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging buffered
+          no logging console
+          enable secret 8 $8$Ug6ab02oLKjSpP$4l8ZcEMsD1o1XtHdjuJF9fRChUyuUW1XTriN7/rraa2
+          !
+          username cisco privilege 15 secret 8 $8$BEMrkQDN4gG5nf$1HcTFnlSglMVq7SIKSQngC88WSndujqdjzLsIPh.xTw
+          username eve secret 8 $8$2NvzC3cDzDIBpf$dlQFnK1Q8lKhDwiSRIJzgRG9gyA7duHNWnfQOTLSVI2
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          ip domain-name axiom.bnl
+          ip name-server 8.8.8.8
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree portfast edge default
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          !
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.00cc.0c8e
+           switchport port-security aging time 1440
+           switchport port-security aging type inactivity
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.000e.cdf1
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan1
+           ip address 192.168.1.51 255.255.255.0
+          !
+          ip default-gateway 192.168.1.1
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^CC
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: SW1-IN
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: -160
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:5c:69:8a
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:6b:a5:8b
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:1f:e8:8c
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:a3:3a:8d
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname Server
+          # configurable user account
+          USERNAME=cisco
+          PASSWORD=cisco
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.2.10
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=192.168.2.1
+          DNS_SERVER=8.8.8.8
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Create a script to start a listener on a specific port
+          cat <<'EOF' > /usr/local/bin/start_listener
+          #!/bin/sh
+          [ "$#" -ne 1 ] && { echo "usage: $0 {port}" >&2; exit 1; }
+          [ -n "$1" ] && [ "$1" -eq "$1" ] 2>/dev/null || { echo "$0: invalid port" >&2; exit 1; }
+          while : ; do
+              echo "Welcome to port $1!" | nc -l -p "$1" -k || exit 1
+          done
+          EOF
+          chmod +x /usr/local/bin/start_listener
+          chown root:root /usr/local/bin/start_listener
+          chmod 755 /usr/local/bin/start_listener
+
+          # Simulate services
+
+          # Simulate an internal HTTP service
+          /usr/local/bin/start_listener 80 &
+          # Simulate an internal HTTPS service
+          /usr/local/bin/start_listener 443 &
+          # Simulate an external HTTP service (accessible via port 80 from outside)
+          /usr/local/bin/start_listener 8080 &
+          # Simulate an external HTTPS service (accessible via port 443 from outside)
+          /usr/local/bin/start_listener 8088 &
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: Server
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -320
+    y: -480
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:16:dd:ae
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration: []
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: Internet
+    node_definition: external_connector
+    parameters: {}
+    ram: null
+    tags: []
+    x: -920
+    y: 40
+    interfaces:
+      - id: i0
+        label: port
+        mac_address: null
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname WALL-E
+          # configurable user account
+          USERNAME=wall-e
+          PASSWORD=eve
+
+          # configurable network parameters
+          IP_ADDRESS=172.16.1.101
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=172.16.1.1
+          DNS_SERVER=8.8.8.8
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: WALL-E
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -1240
+    y: -520
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:2f:93:7e
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname EVE
+          # configurable user account
+          USERNAME=eve
+          PASSWORD=wall-e
+
+          # The host uses DHCP, so no configuration is needed
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: EVE
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -120
+    y: -160
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:cc:0c:8e
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname M-O
+          # configurable user account
+          USERNAME=m-o
+          PASSWORD=all_clean
+
+          # configurable network parameters
+          IP_ADDRESS=192.168.3.101
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=192.168.3.1
+          DNS_SERVER=8.8.8.8
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n8
+    image_definition: null
+    label: M-O
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -400
+    y: 160
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:61:eb:9e
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3093 bytes
+          !
+          ! Last configuration change at 20:02:06 UTC Sun Mar 22 2026
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R1-INET
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          no ip domain lookup
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           ip address 10.1.1.2 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           ip address 10.1.2.2 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          line vty 5 924
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n9
+    image_definition: null
+    label: R1-INET
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -720
+    y: -320
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:78:b1:5a
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:ef:ad:5b
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:54:13:5c
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:6d:f2:5d
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3452 bytes
+          !
+          ! Last configuration change at 15:45:27 UTC Sat Mar 14 2026
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname ISP
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip dhcp excluded-address 10.1.5.3 10.1.5.6
+          !
+          ip dhcp pool ENTERPRISE_POOL
+           network 10.1.5.0 255.255.255.248
+           default-router 10.1.5.1
+           dns-server 8.8.8.8
+           lease 2
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           ip address dhcp
+           ip nat outside
+           ip virtual-reassembly in
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           ip address 10.1.5.1 255.255.255.0
+           ip nat inside
+           ip virtual-reassembly in
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          ip nat inside source list EXTERNAL_TRAFFIC interface GigabitEthernet0/0 overload
+          !
+          ip access-list standard EXTERNAL_TRAFFIC
+           permit 10.1.5.0 0.0.0.7
+           remark Match packets sent to external connector
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^CC
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n10
+    image_definition: null
+    label: ISP
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -760
+    y: -40
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:ef:a5:4a
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:2e:fc:4b
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:ca:f7:4c
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:a2:36:4d
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: node.cfg
+        content: |-
+          # this is a shell script which will be sourced at boot
+          hostname WALL-A
+          # configurable user account
+          USERNAME=wall-a
+          PASSWORD=axiom
+
+          # configurable network parameters
+          IP_ADDRESS=172.16.1.102
+          NETMASK=255.255.255.0
+          DEFAULT_GATEWAY=172.16.1.1
+          DNS_SERVER=8.8.8.8
+
+          # Configure a static IP address and a default gateway on eth0
+          # See https://wiki.alpinelinux.org/wiki/Configure_Networking#Interface_configuration
+          cat <<EOF > /etc/network/interfaces
+          auto lo
+          iface lo inet loopback
+
+          auto eth0
+          iface eth0 inet static
+              address $IP_ADDRESS
+              netmask $NETMASK
+              gateway $DEFAULT_GATEWAY
+          EOF
+          rc-service networking restart
+
+          # Configure SSH config with matching key exchange method and host key type
+          grep -q "KexAlgorithms" /etc/ssh/ssh_config ||
+          cat <<EOF >> /etc/ssh/ssh_config
+          KexAlgorithms +diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+          HostkeyAlgorithms +ssh-rsa
+          EOF
+
+          # Configure the DNS server
+          # See https://wiki.alpinelinux.org/wiki/Alpine_configuration_management_scripts#setup-dns
+          setup-dns $DNS_SERVER
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n11
+    image_definition: null
+    label: WALL-A
+    node_definition: alpine
+    parameters: {}
+    ram: null
+    tags: []
+    x: -1240
+    y: -360
+    interfaces:
+      - id: i0
+        label: eth0
+        mac_address: 52:54:00:18:11:7f
+        type: physical
+        slot: 0
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3974 bytes
+          !
+          ! Last configuration change at 08:07:52 UTC Thu Mar 19 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW1-GUEST
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging buffered
+          no logging console
+          enable secret 8 $8$c3OcobmRx5LROP$dm24Jg24ls7CkussAp4UTA1MnmYzQj/Dt5uQvqi/AFc
+          !
+          username cisco privilege 15 secret 8 $8$JeV.wR1XlQF8CP$zfH9pkRBd74aCCbyKsHRdcJUXraLykTzfcbKT/lQDDg
+          username m-o secret 8 $8$U21z8sbbnpWApP$dPiqJMja2KPxDa.3nXCNnqkR9CHcxaytpaAMM6W2AU6
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          ip domain-name axiom.bnl
+          ip name-server 8.8.8.8
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree portfast edge default
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          !
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.0061.eb9e
+           switchport port-security aging time 1440
+           switchport port-security aging type inactivity
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.00b4.d6f5
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan1
+           ip address 192.168.3.51 255.255.255.0
+          !
+          ip default-gateway 192.168.3.1
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n12
+    image_definition: null
+    label: SW1-GUEST
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -480
+    y: 0
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: 52:54:00:df:fa:9a
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: 52:54:00:0d:0d:9b
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: 52:54:00:af:d3:9c
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: 52:54:00:dc:ee:9d
+        type: physical
+        slot: 3
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3888 bytes
+          !
+          ! Last configuration change at 08:16:27 UTC Thu Mar 19 2026 by cisco
+          !
+          version 15.2
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          service compress-config
+          !
+          hostname SW1-DMZ
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging buffered
+          no logging console
+          enable secret 8 $8$O1gsiYCbPREeNv$HpA/pESyYTqBODyeIjDa8xdbo43aH8USDjM4mpvhN36
+          !
+          username cisco privilege 15 secret 8 $8$4rwro76BpV2t4v$0QBop1T9gYYEEqsydbLY8dQwIn3RZHbjx7QS.iUBorc
+          no aaa new-model
+          !
+          !
+          !
+          !
+          !
+          vtp mode off
+          no ip routing
+          !
+          !
+          !
+          ip domain-name axiom.bnl
+          ip name-server 8.8.8.8
+          no ip cef
+          no ipv6 cef
+          !
+          !
+          !
+          spanning-tree mode pvst
+          spanning-tree portfast edge default
+          spanning-tree portfast edge bpdufilter default
+          spanning-tree extend system-id
+          !
+          !
+          vlan 999
+           name BLACK_HOLE_VLAN
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface GigabitEthernet0/0
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.0016.ddae
+           switchport port-security aging time 1440
+           switchport port-security aging type inactivity
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/1
+           switchport mode access
+           switchport port-security mac-address sticky
+           switchport port-security mac-address sticky 5254.00ad.1ef3
+           switchport port-security
+           negotiation auto
+          !
+          interface GigabitEthernet0/2
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface GigabitEthernet0/3
+           switchport access vlan 999
+           switchport mode access
+           shutdown
+           negotiation auto
+          !
+          interface Vlan1
+           ip address 192.168.2.51 255.255.255.0
+          !
+          ip default-gateway 192.168.2.1
+          ip forward-protocol nd
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ip ssh version 2
+          ip ssh server algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          ip ssh client algorithm encryption aes128-ctr aes192-ctr aes256-ctr
+          !
+          !
+          !
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner incoming ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          banner login ^C
+          IOSv - Cisco Systems Confidential -
+
+          Supplemental End User License Restrictions
+
+          This IOSv software is provided AS-IS without warranty of any kind. Under no circumstances may this software be used separate from the Cisco Modeling Labs Software that this software was provided with, or deployed or used as part of a production environment.
+
+          By using the software, you agree to abide by the terms and conditions of the Cisco End User License Agreement at http://www.cisco.com/go/eula. Unauthorized use or distribution of this software is expressly prohibited.
+          ^C
+          !
+          line con 0
+           exec-timeout 0 0
+           logging synchronous
+           login local
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           logging synchronous
+           login local
+           transport input ssh
+          line vty 5 1500
+           exec-timeout 60 0
+           logging synchronous
+           login local
+           transport input ssh
+          !
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n13
+    image_definition: null
+    label: SW1-DMZ
+    node_definition: iosvl2
+    parameters: {}
+    ram: null
+    tags: []
+    x: -440
+    y: -320
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        type: physical
+        slot: 0
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        type: physical
+        slot: 1
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        type: physical
+        slot: 2
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        type: physical
+        slot: 3
+links:
+  - id: l0
+    n1: n7
+    n2: n3
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: EVE-eth0<->SW-IN-GigabitEthernet0/0
+  - id: l1
+    n1: n1
+    n2: n3
+    i1: i1
+    i2: i2
+    conditioning: {}
+    label: Firewall-GigabitEthernet0/0<->SW-IN-GigabitEthernet0/1
+  - id: l2
+    n1: n2
+    n2: n0
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: SW-BR-GigabitEthernet0/1<->R1-BR-GigabitEthernet0/0
+  - id: l3
+    n1: n6
+    n2: n2
+    i1: i0
+    i2: i3
+    conditioning: {}
+    label: WALL-E-eth0<->SW-BR-GigabitEthernet0/2
+  - id: l4
+    n1: n1
+    n2: n9
+    i1: i2
+    i2: i1
+    conditioning: {}
+    label: Firewall-GigabitEthernet0/1<->R1-INET-GigabitEthernet0/0
+  - id: l5
+    n1: n9
+    n2: n0
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: R1-INET-GigabitEthernet0/1<->R1-BR-GigabitEthernet0/1
+  - id: l6
+    n1: n1
+    n2: n10
+    i1: i4
+    i2: i2
+    conditioning: {}
+    label: FW-GigabitEthernet0/3<->ISP-GigabitEthernet0/1
+  - id: l7
+    n1: n10
+    n2: n5
+    i1: i1
+    i2: i0
+    conditioning: {}
+    label: ISP-GigabitEthernet0/0<->Internet-port
+  - id: l8
+    n1: n11
+    n2: n2
+    i1: i0
+    i2: i4
+    conditioning: {}
+    label: WALL-A-eth0<->SW1-BR-GigabitEthernet0/3
+  - id: l9
+    n1: n12
+    n2: n1
+    i1: i2
+    i2: i5
+    conditioning: {}
+    label: iosvl2-0-GigabitEthernet0/1<->FW-GigabitEthernet0/4
+  - id: l10
+    n1: n8
+    n2: n12
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: M-O-eth0<->iosvl2-0-GigabitEthernet0/0
+  - id: l11
+    n1: n1
+    n2: n13
+    i1: i3
+    i2: i2
+    conditioning: {}
+    label: FW-GigabitEthernet0/2<->iosvl2-0-GigabitEthernet0/1
+  - id: l12
+    n1: n4
+    n2: n13
+    i1: i0
+    i2: i1
+    conditioning: {}
+    label: Server-eth0<->SW1-DMZ-GigabitEthernet0/0
+lab:
+  description: |-
+    This lab configures a Cisco ASA firewall and implements a site-to-site IPsec VPN in a network with headquarters, branch office, DMZ, guest network, and outside network (Internet).
+
+    The lab topology was inspired from the online course Introduction to Network Simulations with Cisco Modeling Labs by Cisco U. (https://u.cisco.com/paths/introduction-network-simulations-with-cisco-modeling-labs-243).
+
+    The Cisco ASA firewall defines various access rules for different zones (see `show access-list` and `show access-group`) and defines NAT translations (see `show nat` or `show run nat`). Furthermore, the firewall and R1-BR (the branch edge router) implement a site-to-site (IPsec) VPN for traffic between the branch office and the firewall (including traffic not destined to the firewall), which goes through R1-INET (an Internet router).
+
+    For more information about the implemented features, see the configuration of the devices (`show running-config` or `show run`).
+
+    Credentials:
+    WALL-E: username: wall-e, password: eve
+    WALL-E (FW): username: wall-e, password: eve_wall-e
+    EVE: username: eve, password: wall-e
+    EVE (FW): username: eve, password: wall-e_eve
+    M-O: username: m-o, password: all_clean
+    WALL-A: username: wall-a, password: axiom
+    Server: username: cisco, password: cisco
+    Admin: username: cisco, password: cisco
+    Admin (FW): username: cisco, password: ciscoasa
+    Enable secret: cisco
+    Enable secret (FW): ciscoasa
+  notes: ''
+  title: Firewall_IPsec_Lab
+  version: 0.3.0
